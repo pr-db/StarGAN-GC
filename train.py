@@ -22,7 +22,7 @@ def comb(N,r):
     iterable = list(range(0,N))
     return list(itertools.combinations(iterable,2))
 
-def Train(models, epochs, train_dataset, train_loader, optimizers, device, model_dir, log_path, config, snapshot=3, resume=0):
+def Train(models, epochs, train_dataset, train_loader, optimizers, device, model_dir, log_path, config, snapshot=100, resume=0):
     fmt = '%(asctime)s (%(module)s:%(lineno)d) %(levelname)s: %(message)s'
     datafmt = '%m/%d/%Y %I:%M:%S'
     if not os.path.exists(os.path.dirname(log_path)):
@@ -35,7 +35,6 @@ def Train(models, epochs, train_dataset, train_loader, optimizers, device, model
 
     for tag in ['gen', 'dis']:
         checkpointpath = os.path.join(model_dir, '{}.{}.pt'.format(resume,tag))
-        print(checkpointpath)
         if os.path.exists(checkpointpath):
             checkpoint = torch.load(checkpointpath, map_location=device)
             models[tag].load_state_dict(checkpoint['model_state_dict'])
@@ -143,10 +142,10 @@ def Train(models, epochs, train_dataset, train_loader, optimizers, device, model
 def main():
     parser = argparse.ArgumentParser(description='StarGAN-VC')
     parser.add_argument('--gpu', '-g', type=int, default=-1, help='GPU ID (negative value indicates CPU)')
-    parser.add_argument('-ddir', '--data_rootdir', type=str, default='../CMU_data/training',
+    parser.add_argument('-ddir', '--data_rootdir', type=str, default='CMU_data/training',
                         help='root data folder that contains the normalized features')
     parser.add_argument('--epochs', '-epoch', default=2000, type=int, help='number of epochs to learn')
-    parser.add_argument('--snapshot', '-snap', default=3, type=int, help='snapshot interval')
+    parser.add_argument('--snapshot', '-snap', default=200, type=int, help='snapshot interval')
     parser.add_argument('--batch_size', '-batch', type=int, default=12, help='Batch size')
     parser.add_argument('--num_mels', '-nm', type=int, default=80, help='number of mel channels')
     parser.add_argument('--arch_type', '-arc', default='conv', type=str, help='generator architecture type (conv or rnn)')
@@ -174,7 +173,6 @@ def main():
     # Set up GPU
     if torch.cuda.is_available() and args.gpu >= 0:
         device = torch.device('cuda:%d' % args.gpu)
-        print(device)
     else:
         device = torch.device('cpu')
     if device.type == 'cuda':

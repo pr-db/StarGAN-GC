@@ -13,7 +13,7 @@
 #     -e: Experiment name (e.g., "exp1")
 
 # Default values
-db_dir="/CMU_data/training"
+db_dir="CMU_data/training"
 dataset_name="mydataset"
 gpu=0
 arch_type="conv"
@@ -52,7 +52,6 @@ if [[ ${start_stage} -le 1 ]]; then
               --data_rootdir ${normfeat_dir} \
               --model_rootdir ${model_dir} \
               --log_dir ${log_dir} \
-              --snapshot 5 \
               --arch_type ${arch_type} \
               --loss_type ${loss_type} \
               --experiment_name ${exp_name} \

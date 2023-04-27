@@ -10,7 +10,7 @@
 #     -c: Model checkpoint to load (0 indicates the newest model)
 #     -v: Vocoder type ("hifigan.v1" or "parallel_wavegan.v1")
 
-db_dir="/CMU_data/test"
+db_dir="CMU_data/test"
 dataset_name="mydataset"
 gpu=0
 checkpoint=0

@@ -52,7 +52,7 @@ def logmelfilterbank(audio,
     spc = np.abs(x_stft).T  # (#frames, #bins)
 
     # get mel basis
-    mel_basis = librosa.filters.mel(sr = sampling_rate, sz = fft_size, nm = num_mels,fm = fmin,sr2 =  sampling_rate/2)
+    mel_basis = librosa.filters.mel(sampling_rate, fft_size, num_mels, fmin, sampling_rate/2)
 
     return np.log10(np.maximum(eps, np.dot(spc, mel_basis.T)))
 
@@ -80,7 +80,7 @@ def extract_melspec(src_filepath, dst_filepath, kwargs):
                                         fmin=fmin, fmax=fmax, num_mels=num_mels)
         melspec_raw = melspec_raw.astype(np.float32)
         melspec_raw = melspec_raw.T # n_mels x n_frame
-
+			
         if not os.path.exists(os.path.dirname(dst_filepath)):
             os.makedirs(os.path.dirname(dst_filepath), exist_ok=True)
         with h5py.File(dst_filepath, "w") as f:
