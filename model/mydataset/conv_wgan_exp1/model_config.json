@@ -17,22 +17,18 @@
     "normtype": "IN",
     "epochs": 2000,
     "BatchSize": 12,
-    "n_spk": 14,
+    "n_spk": 10,
     "spk_list": [
-        "F_axb_arctic",
-        "F_clb_arctic",
-        "F_eey_arctic",
-        "F_ljm_arctic",
-        "F_lnh_arctic",
-        "F_slp_arctic",
-        "F_slt_arctic",
-        "M_awb_arctic",
-        "M_bdl_arctic",
-        "M_fem_arctic",
-        "M_gka_arctic",
-        "M_jmk_arctic",
-        "M_ksp_arctic",
-        "M_rms_arctic"
+        "F1",
+        "F2",
+        "F3",
+        "F4",
+        "F5",
+        "M1",
+        "M2",
+        "M3",
+        "M4",
+        "M5"
     ],
     "src_conditioning": false
 }
