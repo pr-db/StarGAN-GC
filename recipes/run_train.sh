@@ -13,7 +13,7 @@
 #     -e: Experiment name (e.g., "exp1")
 
 # Default values
-db_dir="../CMU_data/training"
+db_dir="/CMU_data/training"
 dataset_name="mydataset"
 gpu=0
 arch_type="conv"
