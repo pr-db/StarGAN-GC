@@ -2,16 +2,14 @@
 !git config --global user.name "pr-db"
 !git config --global user.password "9913901955p"
 
-token = "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"
+token = "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"
 name = "pr-db"
 repo = "StarGAN-CB"
 
 !git clone https://{token}@github.com/{name}/{repo}
 %cd {repo}
 
-
 !pip install -r requirements.txt
-
 
 !chmod 755 -R recipes
 !./recipes/run_train.sh -g 0 -s 0
