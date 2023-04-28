@@ -20,8 +20,9 @@ arch_type="conv"
 loss_type="wgan"
 start_stage=0
 exp_name="conv_wgan_exp1"
+resum_stage=0
 
-while getopts "g:d:a:l:s:e:" opt; do
+while getopts "g:d:a:l:s:e:r:" opt; do
        case $opt in
               g ) gpu=$OPTARG;;
               d ) db_dir=$OPTARG;;
@@ -29,6 +30,7 @@ while getopts "g:d:a:l:s:e:" opt; do
               l ) loss_type=$OPTARG;;
               s ) start_stage=$OPTARG;;
               e ) exp_name=$OPTARG;;
+			  r ) resum_stage=$OPTARG;;
        esac
 done
 
@@ -53,6 +55,7 @@ if [[ ${start_stage} -le 1 ]]; then
               --model_rootdir ${model_dir} \
               --log_dir ${log_dir} \
 			  --snapshot 5 \
+			  --resume ${resum_stage} \
               --arch_type ${arch_type} \
               --loss_type ${loss_type} \
               --experiment_name ${exp_name} \
