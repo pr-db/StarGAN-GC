@@ -1,0 +1,476 @@
+04/28/2023 09:32:49 (train:118) INFO: epoch 1, mini-batch 1: AdvLoss_d=0.0189, AdvLoss_g=-0.0184, GradLoss_d=0.2560, ClsLoss_d=0.2305, ClsLoss_g=0.2304
+04/28/2023 09:32:49 (train:120) INFO: epoch 1, mini-batch 1: CycLoss=0.5925, RecLoss=0.5694
+04/28/2023 09:33:04 (train:118) INFO: epoch 1, mini-batch 2: AdvLoss_d=0.0165, AdvLoss_g=-0.0221, GradLoss_d=0.0431, ClsLoss_d=0.2304, ClsLoss_g=0.2305
+04/28/2023 09:33:04 (train:120) INFO: epoch 1, mini-batch 2: CycLoss=0.4861, RecLoss=0.4746
+04/28/2023 09:33:14 (train:118) INFO: epoch 1, mini-batch 3: AdvLoss_d=0.0173, AdvLoss_g=-0.0245, GradLoss_d=0.0385, ClsLoss_d=0.2305, ClsLoss_g=0.2305
+04/28/2023 09:33:14 (train:120) INFO: epoch 1, mini-batch 3: CycLoss=0.4639, RecLoss=0.4534
+04/28/2023 09:34:06 (train:118) INFO: epoch 1, mini-batch 4: AdvLoss_d=0.0164, AdvLoss_g=-0.0258, GradLoss_d=0.0292, ClsLoss_d=0.2304, ClsLoss_g=0.2305
+04/28/2023 09:34:06 (train:120) INFO: epoch 1, mini-batch 4: CycLoss=0.4379, RecLoss=0.4232
+04/28/2023 09:34:48 (train:118) INFO: epoch 1, mini-batch 5: AdvLoss_d=0.0137, AdvLoss_g=-0.0253, GradLoss_d=0.0211, ClsLoss_d=0.2304, ClsLoss_g=0.2305
+04/28/2023 09:34:48 (train:120) INFO: epoch 1, mini-batch 5: CycLoss=0.3923, RecLoss=0.3782
+04/28/2023 09:35:05 (train:118) INFO: epoch 1, mini-batch 6: AdvLoss_d=0.0110, AdvLoss_g=-0.0231, GradLoss_d=0.0258, ClsLoss_d=0.2304, ClsLoss_g=0.2304
+04/28/2023 09:35:05 (train:120) INFO: epoch 1, mini-batch 6: CycLoss=0.3783, RecLoss=0.3642
+04/28/2023 09:35:49 (train:118) INFO: epoch 1, mini-batch 7: AdvLoss_d=0.0083, AdvLoss_g=-0.0198, GradLoss_d=0.0156, ClsLoss_d=0.2304, ClsLoss_g=0.2304
+04/28/2023 09:35:49 (train:120) INFO: epoch 1, mini-batch 7: CycLoss=0.3695, RecLoss=0.3558
+04/28/2023 09:36:33 (train:118) INFO: epoch 1, mini-batch 8: AdvLoss_d=0.0061, AdvLoss_g=-0.0180, GradLoss_d=0.0248, ClsLoss_d=0.2304, ClsLoss_g=0.2305
+04/28/2023 09:36:33 (train:120) INFO: epoch 1, mini-batch 8: CycLoss=0.3629, RecLoss=0.3480
+04/28/2023 09:36:54 (train:118) INFO: epoch 1, mini-batch 9: AdvLoss_d=0.0057, AdvLoss_g=-0.0165, GradLoss_d=0.0599, ClsLoss_d=0.2304, ClsLoss_g=0.2305
+04/28/2023 09:36:54 (train:120) INFO: epoch 1, mini-batch 9: CycLoss=0.3656, RecLoss=0.3514
+04/28/2023 09:37:39 (train:118) INFO: epoch 1, mini-batch 10: AdvLoss_d=0.0049, AdvLoss_g=-0.0148, GradLoss_d=0.0167, ClsLoss_d=0.2304, ClsLoss_g=0.2304
+04/28/2023 09:37:39 (train:120) INFO: epoch 1, mini-batch 10: CycLoss=0.3557, RecLoss=0.3422
+04/28/2023 09:38:09 (train:118) INFO: epoch 1, mini-batch 11: AdvLoss_d=0.0036, AdvLoss_g=-0.0144, GradLoss_d=0.0155, ClsLoss_d=0.2304, ClsLoss_g=0.2304
+04/28/2023 09:38:09 (train:120) INFO: epoch 1, mini-batch 11: CycLoss=0.3458, RecLoss=0.3339
+04/28/2023 09:38:35 (train:118) INFO: epoch 1, mini-batch 12: AdvLoss_d=0.0037, AdvLoss_g=-0.0155, GradLoss_d=0.0150, ClsLoss_d=0.2304, ClsLoss_g=0.2304
+04/28/2023 09:38:35 (train:120) INFO: epoch 1, mini-batch 12: CycLoss=0.3555, RecLoss=0.3399
+04/28/2023 09:39:10 (train:118) INFO: epoch 1, mini-batch 13: AdvLoss_d=0.0045, AdvLoss_g=-0.0157, GradLoss_d=0.0203, ClsLoss_d=0.2304, ClsLoss_g=0.2304
+04/28/2023 09:39:10 (train:120) INFO: epoch 1, mini-batch 13: CycLoss=0.3546, RecLoss=0.3396
+04/28/2023 09:39:35 (train:118) INFO: epoch 1, mini-batch 14: AdvLoss_d=0.0022, AdvLoss_g=-0.0133, GradLoss_d=0.0139, ClsLoss_d=0.2304, ClsLoss_g=0.2305
+04/28/2023 09:39:35 (train:120) INFO: epoch 1, mini-batch 14: CycLoss=0.3452, RecLoss=0.3323
+04/28/2023 09:40:01 (train:118) INFO: epoch 1, mini-batch 15: AdvLoss_d=0.0021, AdvLoss_g=-0.0138, GradLoss_d=0.0155, ClsLoss_d=0.2304, ClsLoss_g=0.2304
+04/28/2023 09:40:01 (train:120) INFO: epoch 1, mini-batch 15: CycLoss=0.3441, RecLoss=0.3316
+04/28/2023 09:40:36 (train:118) INFO: epoch 1, mini-batch 16: AdvLoss_d=0.0017, AdvLoss_g=-0.0116, GradLoss_d=0.0130, ClsLoss_d=0.2304, ClsLoss_g=0.2304
+04/28/2023 09:40:36 (train:120) INFO: epoch 1, mini-batch 16: CycLoss=0.3334, RecLoss=0.3238
+04/28/2023 09:41:19 (train:118) INFO: epoch 1, mini-batch 17: AdvLoss_d=0.0014, AdvLoss_g=-0.0112, GradLoss_d=0.0239, ClsLoss_d=0.2304, ClsLoss_g=0.2304
+04/28/2023 09:41:19 (train:120) INFO: epoch 1, mini-batch 17: CycLoss=0.3355, RecLoss=0.3261
+04/28/2023 09:41:54 (train:118) INFO: epoch 1, mini-batch 18: AdvLoss_d=0.0005, AdvLoss_g=-0.0109, GradLoss_d=0.0129, ClsLoss_d=0.2304, ClsLoss_g=0.2304
+04/28/2023 09:41:54 (train:120) INFO: epoch 1, mini-batch 18: CycLoss=0.3313, RecLoss=0.3220
+04/28/2023 09:42:14 (train:118) INFO: epoch 1, mini-batch 19: AdvLoss_d=0.0008, AdvLoss_g=-0.0110, GradLoss_d=0.0147, ClsLoss_d=0.2304, ClsLoss_g=0.2304
+04/28/2023 09:42:14 (train:120) INFO: epoch 1, mini-batch 19: CycLoss=0.3355, RecLoss=0.3241
+04/28/2023 09:42:40 (train:118) INFO: epoch 1, mini-batch 20: AdvLoss_d=0.0006, AdvLoss_g=-0.0103, GradLoss_d=0.0249, ClsLoss_d=0.2304, ClsLoss_g=0.2304
+04/28/2023 09:42:40 (train:120) INFO: epoch 1, mini-batch 20: CycLoss=0.3362, RecLoss=0.3230
+04/28/2023 09:42:57 (train:118) INFO: epoch 1, mini-batch 21: AdvLoss_d=0.0008, AdvLoss_g=-0.0117, GradLoss_d=0.0247, ClsLoss_d=0.2303, ClsLoss_g=0.2304
+04/28/2023 09:42:57 (train:120) INFO: epoch 1, mini-batch 21: CycLoss=0.3314, RecLoss=0.3213
+04/28/2023 09:43:42 (train:118) INFO: epoch 1, mini-batch 22: AdvLoss_d=0.0008, AdvLoss_g=-0.0107, GradLoss_d=0.0124, ClsLoss_d=0.2304, ClsLoss_g=0.2304
+04/28/2023 09:43:42 (train:120) INFO: epoch 1, mini-batch 22: CycLoss=0.3297, RecLoss=0.3171
+04/28/2023 09:44:17 (train:118) INFO: epoch 1, mini-batch 23: AdvLoss_d=0.0012, AdvLoss_g=-0.0112, GradLoss_d=0.0135, ClsLoss_d=0.2303, ClsLoss_g=0.2303
+04/28/2023 09:44:17 (train:120) INFO: epoch 1, mini-batch 23: CycLoss=0.3362, RecLoss=0.3238
+04/28/2023 09:44:42 (train:118) INFO: epoch 1, mini-batch 24: AdvLoss_d=0.0013, AdvLoss_g=-0.0131, GradLoss_d=0.0176, ClsLoss_d=0.2303, ClsLoss_g=0.2303
+04/28/2023 09:44:42 (train:120) INFO: epoch 1, mini-batch 24: CycLoss=0.3417, RecLoss=0.3286
+04/28/2023 09:44:58 (train:118) INFO: epoch 1, mini-batch 25: AdvLoss_d=0.0002, AdvLoss_g=-0.0100, GradLoss_d=0.0114, ClsLoss_d=0.2303, ClsLoss_g=0.2304
+04/28/2023 09:44:58 (train:120) INFO: epoch 1, mini-batch 25: CycLoss=0.3302, RecLoss=0.3185
+04/28/2023 09:45:05 (train:118) INFO: epoch 1, mini-batch 26: AdvLoss_d=0.0010, AdvLoss_g=-0.0137, GradLoss_d=0.0190, ClsLoss_d=0.2302, ClsLoss_g=0.2303
+04/28/2023 09:45:05 (train:120) INFO: epoch 1, mini-batch 26: CycLoss=0.3332, RecLoss=0.3207
+04/28/2023 09:45:23 (train:118) INFO: epoch 1, mini-batch 27: AdvLoss_d=0.0027, AdvLoss_g=-0.0144, GradLoss_d=0.0179, ClsLoss_d=0.2303, ClsLoss_g=0.2303
+04/28/2023 09:45:23 (train:120) INFO: epoch 1, mini-batch 27: CycLoss=0.3261, RecLoss=0.3129
+04/28/2023 09:45:47 (train:118) INFO: epoch 1, mini-batch 28: AdvLoss_d=0.0019, AdvLoss_g=-0.0142, GradLoss_d=0.0141, ClsLoss_d=0.2302, ClsLoss_g=0.2303
+04/28/2023 09:45:47 (train:120) INFO: epoch 1, mini-batch 28: CycLoss=0.3242, RecLoss=0.3101
+04/28/2023 09:46:25 (train:118) INFO: epoch 1, mini-batch 29: AdvLoss_d=0.0003, AdvLoss_g=-0.0116, GradLoss_d=0.0123, ClsLoss_d=0.2302, ClsLoss_g=0.2303
+04/28/2023 09:46:25 (train:120) INFO: epoch 1, mini-batch 29: CycLoss=0.3182, RecLoss=0.3067
+04/28/2023 09:47:09 (train:118) INFO: epoch 1, mini-batch 30: AdvLoss_d=0.0008, AdvLoss_g=-0.0118, GradLoss_d=0.0094, ClsLoss_d=0.2303, ClsLoss_g=0.2303
+04/28/2023 09:47:09 (train:120) INFO: epoch 1, mini-batch 30: CycLoss=0.3225, RecLoss=0.3093
+04/28/2023 09:47:54 (train:118) INFO: epoch 1, mini-batch 31: AdvLoss_d=0.0011, AdvLoss_g=-0.0112, GradLoss_d=0.0151, ClsLoss_d=0.2302, ClsLoss_g=0.2302
+04/28/2023 09:47:54 (train:120) INFO: epoch 1, mini-batch 31: CycLoss=0.3199, RecLoss=0.3075
+04/28/2023 09:48:37 (train:118) INFO: epoch 1, mini-batch 32: AdvLoss_d=0.0005, AdvLoss_g=-0.0101, GradLoss_d=0.0126, ClsLoss_d=0.2302, ClsLoss_g=0.2302
+04/28/2023 09:48:37 (train:120) INFO: epoch 1, mini-batch 32: CycLoss=0.3100, RecLoss=0.2969
+04/28/2023 09:48:45 (train:118) INFO: epoch 1, mini-batch 33: AdvLoss_d=0.0012, AdvLoss_g=-0.0112, GradLoss_d=0.0125, ClsLoss_d=0.2302, ClsLoss_g=0.2302
+04/28/2023 09:48:45 (train:120) INFO: epoch 1, mini-batch 33: CycLoss=0.3183, RecLoss=0.3054
+04/28/2023 09:49:10 (train:118) INFO: epoch 1, mini-batch 34: AdvLoss_d=0.0017, AdvLoss_g=-0.0120, GradLoss_d=0.0226, ClsLoss_d=0.2302, ClsLoss_g=0.2302
+04/28/2023 09:49:10 (train:120) INFO: epoch 1, mini-batch 34: CycLoss=0.3178, RecLoss=0.3033
+04/28/2023 09:49:16 (train:118) INFO: epoch 1, mini-batch 35: AdvLoss_d=0.0013, AdvLoss_g=-0.0113, GradLoss_d=0.0183, ClsLoss_d=0.2302, ClsLoss_g=0.2301
+04/28/2023 09:49:16 (train:120) INFO: epoch 1, mini-batch 35: CycLoss=0.3089, RecLoss=0.2988
+04/28/2023 09:50:07 (train:118) INFO: epoch 1, mini-batch 36: AdvLoss_d=0.0009, AdvLoss_g=-0.0092, GradLoss_d=0.0261, ClsLoss_d=0.2302, ClsLoss_g=0.2301
+04/28/2023 09:50:07 (train:120) INFO: epoch 1, mini-batch 36: CycLoss=0.3130, RecLoss=0.3014
+04/28/2023 09:50:32 (train:118) INFO: epoch 1, mini-batch 37: AdvLoss_d=0.0001, AdvLoss_g=-0.0092, GradLoss_d=0.0109, ClsLoss_d=0.2301, ClsLoss_g=0.2301
+04/28/2023 09:50:32 (train:120) INFO: epoch 1, mini-batch 37: CycLoss=0.3145, RecLoss=0.3012
+04/28/2023 09:50:48 (train:118) INFO: epoch 1, mini-batch 38: AdvLoss_d=0.0004, AdvLoss_g=-0.0107, GradLoss_d=0.0100, ClsLoss_d=0.2301, ClsLoss_g=0.2301
+04/28/2023 09:50:48 (train:120) INFO: epoch 1, mini-batch 38: CycLoss=0.3113, RecLoss=0.2988
+04/28/2023 09:51:07 (train:118) INFO: epoch 1, mini-batch 39: AdvLoss_d=0.0000, AdvLoss_g=-0.0097, GradLoss_d=0.0107, ClsLoss_d=0.2301, ClsLoss_g=0.2301
+04/28/2023 09:51:07 (train:120) INFO: epoch 1, mini-batch 39: CycLoss=0.3118, RecLoss=0.2999
+04/28/2023 09:51:34 (train:118) INFO: epoch 1, mini-batch 40: AdvLoss_d=0.0021, AdvLoss_g=-0.0119, GradLoss_d=0.0114, ClsLoss_d=0.2300, ClsLoss_g=0.2301
+04/28/2023 09:51:34 (train:120) INFO: epoch 1, mini-batch 40: CycLoss=0.3065, RecLoss=0.2961
+04/28/2023 09:52:14 (train:118) INFO: epoch 1, mini-batch 41: AdvLoss_d=0.0018, AdvLoss_g=-0.0085, GradLoss_d=0.0102, ClsLoss_d=0.2300, ClsLoss_g=0.2300
+04/28/2023 09:52:14 (train:120) INFO: epoch 1, mini-batch 41: CycLoss=0.3116, RecLoss=0.3005
+04/28/2023 09:52:39 (train:118) INFO: epoch 1, mini-batch 42: AdvLoss_d=0.0003, AdvLoss_g=-0.0093, GradLoss_d=0.0081, ClsLoss_d=0.2300, ClsLoss_g=0.2300
+04/28/2023 09:52:39 (train:120) INFO: epoch 1, mini-batch 42: CycLoss=0.3081, RecLoss=0.2979
+04/28/2023 09:52:58 (train:118) INFO: epoch 1, mini-batch 43: AdvLoss_d=0.0003, AdvLoss_g=-0.0071, GradLoss_d=0.0130, ClsLoss_d=0.2299, ClsLoss_g=0.2300
+04/28/2023 09:52:58 (train:120) INFO: epoch 1, mini-batch 43: CycLoss=0.3092, RecLoss=0.2987
+04/28/2023 09:53:26 (train:118) INFO: epoch 1, mini-batch 44: AdvLoss_d=0.0014, AdvLoss_g=-0.0088, GradLoss_d=0.0116, ClsLoss_d=0.2299, ClsLoss_g=0.2300
+04/28/2023 09:53:26 (train:120) INFO: epoch 1, mini-batch 44: CycLoss=0.3060, RecLoss=0.2968
+04/28/2023 09:53:36 (train:118) INFO: epoch 1, mini-batch 45: AdvLoss_d=0.0026, AdvLoss_g=-0.0083, GradLoss_d=0.0180, ClsLoss_d=0.2300, ClsLoss_g=0.2299
+04/28/2023 09:53:36 (train:120) INFO: epoch 1, mini-batch 45: CycLoss=0.3079, RecLoss=0.2952
+04/28/2023 09:54:23 (train:118) INFO: epoch 2, mini-batch 1: AdvLoss_d=0.0001, AdvLoss_g=-0.0073, GradLoss_d=0.0094, ClsLoss_d=0.2300, ClsLoss_g=0.2300
+04/28/2023 09:54:23 (train:120) INFO: epoch 2, mini-batch 1: CycLoss=0.3110, RecLoss=0.2990
+04/28/2023 09:54:57 (train:118) INFO: epoch 2, mini-batch 2: AdvLoss_d=0.0016, AdvLoss_g=-0.0069, GradLoss_d=0.0201, ClsLoss_d=0.2299, ClsLoss_g=0.2298
+04/28/2023 09:54:57 (train:120) INFO: epoch 2, mini-batch 2: CycLoss=0.3032, RecLoss=0.2911
+04/28/2023 09:55:15 (train:118) INFO: epoch 2, mini-batch 3: AdvLoss_d=0.0020, AdvLoss_g=-0.0095, GradLoss_d=0.0151, ClsLoss_d=0.2299, ClsLoss_g=0.2299
+04/28/2023 09:55:15 (train:120) INFO: epoch 2, mini-batch 3: CycLoss=0.3004, RecLoss=0.2891
+04/28/2023 09:55:39 (train:118) INFO: epoch 2, mini-batch 4: AdvLoss_d=0.0004, AdvLoss_g=-0.0092, GradLoss_d=0.0150, ClsLoss_d=0.2299, ClsLoss_g=0.2298
+04/28/2023 09:55:39 (train:120) INFO: epoch 2, mini-batch 4: CycLoss=0.3046, RecLoss=0.2932
+04/28/2023 09:55:48 (train:118) INFO: epoch 2, mini-batch 5: AdvLoss_d=-0.0002, AdvLoss_g=-0.0061, GradLoss_d=0.0107, ClsLoss_d=0.2299, ClsLoss_g=0.2299
+04/28/2023 09:55:48 (train:120) INFO: epoch 2, mini-batch 5: CycLoss=0.3061, RecLoss=0.2931
+04/28/2023 09:56:23 (train:118) INFO: epoch 2, mini-batch 6: AdvLoss_d=0.0009, AdvLoss_g=-0.0059, GradLoss_d=0.0082, ClsLoss_d=0.2299, ClsLoss_g=0.2299
+04/28/2023 09:56:23 (train:120) INFO: epoch 2, mini-batch 6: CycLoss=0.3019, RecLoss=0.2904
+04/28/2023 09:56:43 (train:118) INFO: epoch 2, mini-batch 7: AdvLoss_d=0.0027, AdvLoss_g=-0.0086, GradLoss_d=0.0197, ClsLoss_d=0.2299, ClsLoss_g=0.2299
+04/28/2023 09:56:43 (train:120) INFO: epoch 2, mini-batch 7: CycLoss=0.3059, RecLoss=0.2952
+04/28/2023 09:57:27 (train:118) INFO: epoch 2, mini-batch 8: AdvLoss_d=0.0011, AdvLoss_g=-0.0113, GradLoss_d=0.0150, ClsLoss_d=0.2298, ClsLoss_g=0.2298
+04/28/2023 09:57:27 (train:120) INFO: epoch 2, mini-batch 8: CycLoss=0.2997, RecLoss=0.2900
+04/28/2023 09:58:12 (train:118) INFO: epoch 2, mini-batch 9: AdvLoss_d=-0.0002, AdvLoss_g=-0.0053, GradLoss_d=0.0097, ClsLoss_d=0.2299, ClsLoss_g=0.2298
+04/28/2023 09:58:12 (train:120) INFO: epoch 2, mini-batch 9: CycLoss=0.3027, RecLoss=0.2919
+04/28/2023 09:58:37 (train:118) INFO: epoch 2, mini-batch 10: AdvLoss_d=-0.0003, AdvLoss_g=-0.0050, GradLoss_d=0.0082, ClsLoss_d=0.2299, ClsLoss_g=0.2298
+04/28/2023 09:58:37 (train:120) INFO: epoch 2, mini-batch 10: CycLoss=0.3005, RecLoss=0.2896
+04/28/2023 09:59:12 (train:118) INFO: epoch 2, mini-batch 11: AdvLoss_d=0.0005, AdvLoss_g=-0.0061, GradLoss_d=0.0093, ClsLoss_d=0.2298, ClsLoss_g=0.2298
+04/28/2023 09:59:12 (train:120) INFO: epoch 2, mini-batch 11: CycLoss=0.3003, RecLoss=0.2897
+04/28/2023 09:59:58 (train:118) INFO: epoch 2, mini-batch 12: AdvLoss_d=-0.0007, AdvLoss_g=-0.0052, GradLoss_d=0.0088, ClsLoss_d=0.2297, ClsLoss_g=0.2297
+04/28/2023 09:59:58 (train:120) INFO: epoch 2, mini-batch 12: CycLoss=0.2968, RecLoss=0.2856
+04/28/2023 10:00:51 (train:118) INFO: epoch 2, mini-batch 13: AdvLoss_d=-0.0001, AdvLoss_g=-0.0081, GradLoss_d=0.0144, ClsLoss_d=0.2297, ClsLoss_g=0.2297
+04/28/2023 10:00:51 (train:120) INFO: epoch 2, mini-batch 13: CycLoss=0.3012, RecLoss=0.2915
+04/28/2023 10:01:00 (train:118) INFO: epoch 2, mini-batch 14: AdvLoss_d=0.0001, AdvLoss_g=-0.0056, GradLoss_d=0.0093, ClsLoss_d=0.2297, ClsLoss_g=0.2297
+04/28/2023 10:01:00 (train:120) INFO: epoch 2, mini-batch 14: CycLoss=0.2948, RecLoss=0.2859
+04/28/2023 10:01:26 (train:118) INFO: epoch 2, mini-batch 15: AdvLoss_d=0.0022, AdvLoss_g=-0.0067, GradLoss_d=0.0126, ClsLoss_d=0.2298, ClsLoss_g=0.2297
+04/28/2023 10:01:26 (train:120) INFO: epoch 2, mini-batch 15: CycLoss=0.3048, RecLoss=0.2934
+04/28/2023 10:01:51 (train:118) INFO: epoch 2, mini-batch 16: AdvLoss_d=-0.0006, AdvLoss_g=-0.0049, GradLoss_d=0.0087, ClsLoss_d=0.2298, ClsLoss_g=0.2298
+04/28/2023 10:01:51 (train:120) INFO: epoch 2, mini-batch 16: CycLoss=0.2999, RecLoss=0.2889
+04/28/2023 10:02:16 (train:118) INFO: epoch 2, mini-batch 17: AdvLoss_d=0.0001, AdvLoss_g=-0.0070, GradLoss_d=0.0107, ClsLoss_d=0.2296, ClsLoss_g=0.2296
+04/28/2023 10:02:16 (train:120) INFO: epoch 2, mini-batch 17: CycLoss=0.3057, RecLoss=0.2921
+04/28/2023 10:02:32 (train:118) INFO: epoch 2, mini-batch 18: AdvLoss_d=0.0006, AdvLoss_g=-0.0042, GradLoss_d=0.0131, ClsLoss_d=0.2297, ClsLoss_g=0.2296
+04/28/2023 10:02:32 (train:120) INFO: epoch 2, mini-batch 18: CycLoss=0.2954, RecLoss=0.2832
+04/28/2023 10:03:07 (train:118) INFO: epoch 2, mini-batch 19: AdvLoss_d=-0.0006, AdvLoss_g=-0.0049, GradLoss_d=0.0120, ClsLoss_d=0.2296, ClsLoss_g=0.2296
+04/28/2023 10:03:07 (train:120) INFO: epoch 2, mini-batch 19: CycLoss=0.3013, RecLoss=0.2910
+04/28/2023 10:03:32 (train:118) INFO: epoch 2, mini-batch 20: AdvLoss_d=0.0003, AdvLoss_g=-0.0062, GradLoss_d=0.0103, ClsLoss_d=0.2297, ClsLoss_g=0.2297
+04/28/2023 10:03:32 (train:120) INFO: epoch 2, mini-batch 20: CycLoss=0.2934, RecLoss=0.2829
+04/28/2023 10:03:57 (train:118) INFO: epoch 2, mini-batch 21: AdvLoss_d=-0.0003, AdvLoss_g=-0.0051, GradLoss_d=0.0090, ClsLoss_d=0.2296, ClsLoss_g=0.2296
+04/28/2023 10:03:57 (train:120) INFO: epoch 2, mini-batch 21: CycLoss=0.2967, RecLoss=0.2860
+04/28/2023 10:04:03 (train:118) INFO: epoch 2, mini-batch 22: AdvLoss_d=-0.0003, AdvLoss_g=-0.0046, GradLoss_d=0.0110, ClsLoss_d=0.2296, ClsLoss_g=0.2296
+04/28/2023 10:04:03 (train:120) INFO: epoch 2, mini-batch 22: CycLoss=0.2948, RecLoss=0.2837
+04/28/2023 10:04:38 (train:118) INFO: epoch 2, mini-batch 23: AdvLoss_d=-0.0006, AdvLoss_g=-0.0046, GradLoss_d=0.0107, ClsLoss_d=0.2296, ClsLoss_g=0.2296
+04/28/2023 10:04:38 (train:120) INFO: epoch 2, mini-batch 23: CycLoss=0.2949, RecLoss=0.2852
+04/28/2023 10:04:54 (train:118) INFO: epoch 2, mini-batch 24: AdvLoss_d=0.0010, AdvLoss_g=-0.0051, GradLoss_d=0.0168, ClsLoss_d=0.2295, ClsLoss_g=0.2295
+04/28/2023 10:04:54 (train:120) INFO: epoch 2, mini-batch 24: CycLoss=0.2997, RecLoss=0.2879
+04/28/2023 10:05:19 (train:118) INFO: epoch 2, mini-batch 25: AdvLoss_d=0.0009, AdvLoss_g=-0.0054, GradLoss_d=0.0115, ClsLoss_d=0.2296, ClsLoss_g=0.2294
+04/28/2023 10:05:19 (train:120) INFO: epoch 2, mini-batch 25: CycLoss=0.2991, RecLoss=0.2852
+04/28/2023 10:06:13 (train:118) INFO: epoch 2, mini-batch 26: AdvLoss_d=-0.0010, AdvLoss_g=-0.0034, GradLoss_d=0.0099, ClsLoss_d=0.2296, ClsLoss_g=0.2295
+04/28/2023 10:06:13 (train:120) INFO: epoch 2, mini-batch 26: CycLoss=0.2954, RecLoss=0.2833
+04/28/2023 10:06:29 (train:118) INFO: epoch 2, mini-batch 27: AdvLoss_d=-0.0005, AdvLoss_g=-0.0041, GradLoss_d=0.0093, ClsLoss_d=0.2296, ClsLoss_g=0.2294
+04/28/2023 10:06:29 (train:120) INFO: epoch 2, mini-batch 27: CycLoss=0.3010, RecLoss=0.2883
+04/28/2023 10:06:36 (train:118) INFO: epoch 2, mini-batch 28: AdvLoss_d=-0.0003, AdvLoss_g=-0.0035, GradLoss_d=0.0079, ClsLoss_d=0.2296, ClsLoss_g=0.2294
+04/28/2023 10:06:36 (train:120) INFO: epoch 2, mini-batch 28: CycLoss=0.2910, RecLoss=0.2786
+04/28/2023 10:06:52 (train:118) INFO: epoch 2, mini-batch 29: AdvLoss_d=-0.0017, AdvLoss_g=-0.0026, GradLoss_d=0.0087, ClsLoss_d=0.2294, ClsLoss_g=0.2294
+04/28/2023 10:06:52 (train:120) INFO: epoch 2, mini-batch 29: CycLoss=0.2980, RecLoss=0.2857
+04/28/2023 10:07:17 (train:118) INFO: epoch 2, mini-batch 30: AdvLoss_d=-0.0008, AdvLoss_g=-0.0038, GradLoss_d=0.0092, ClsLoss_d=0.2295, ClsLoss_g=0.2293
+04/28/2023 10:07:17 (train:120) INFO: epoch 2, mini-batch 30: CycLoss=0.2903, RecLoss=0.2780
+04/28/2023 10:07:38 (train:118) INFO: epoch 2, mini-batch 31: AdvLoss_d=0.0004, AdvLoss_g=-0.0077, GradLoss_d=0.0120, ClsLoss_d=0.2294, ClsLoss_g=0.2294
+04/28/2023 10:07:38 (train:120) INFO: epoch 2, mini-batch 31: CycLoss=0.2946, RecLoss=0.2811
+04/28/2023 10:08:22 (train:118) INFO: epoch 2, mini-batch 32: AdvLoss_d=-0.0012, AdvLoss_g=-0.0038, GradLoss_d=0.0200, ClsLoss_d=0.2294, ClsLoss_g=0.2293
+04/28/2023 10:08:22 (train:120) INFO: epoch 2, mini-batch 32: CycLoss=0.2937, RecLoss=0.2805
+04/28/2023 10:09:18 (train:118) INFO: epoch 2, mini-batch 33: AdvLoss_d=-0.0000, AdvLoss_g=-0.0029, GradLoss_d=0.0090, ClsLoss_d=0.2294, ClsLoss_g=0.2293
+04/28/2023 10:09:18 (train:120) INFO: epoch 2, mini-batch 33: CycLoss=0.2880, RecLoss=0.2735
+04/28/2023 10:10:12 (train:118) INFO: epoch 2, mini-batch 34: AdvLoss_d=-0.0010, AdvLoss_g=-0.0013, GradLoss_d=0.0083, ClsLoss_d=0.2295, ClsLoss_g=0.2293
+04/28/2023 10:10:12 (train:120) INFO: epoch 2, mini-batch 34: CycLoss=0.2877, RecLoss=0.2741
+04/28/2023 10:11:04 (train:118) INFO: epoch 2, mini-batch 35: AdvLoss_d=-0.0013, AdvLoss_g=-0.0028, GradLoss_d=0.0156, ClsLoss_d=0.2294, ClsLoss_g=0.2292
+04/28/2023 10:11:04 (train:120) INFO: epoch 2, mini-batch 35: CycLoss=0.2866, RecLoss=0.2742
+04/28/2023 10:11:38 (train:118) INFO: epoch 2, mini-batch 36: AdvLoss_d=0.0003, AdvLoss_g=0.0004, GradLoss_d=0.0194, ClsLoss_d=0.2294, ClsLoss_g=0.2293
+04/28/2023 10:11:38 (train:120) INFO: epoch 2, mini-batch 36: CycLoss=0.2879, RecLoss=0.2750
+04/28/2023 10:12:20 (train:118) INFO: epoch 2, mini-batch 37: AdvLoss_d=-0.0020, AdvLoss_g=-0.0019, GradLoss_d=0.0083, ClsLoss_d=0.2293, ClsLoss_g=0.2292
+04/28/2023 10:12:20 (train:120) INFO: epoch 2, mini-batch 37: CycLoss=0.2905, RecLoss=0.2760
+04/28/2023 10:12:46 (train:118) INFO: epoch 2, mini-batch 38: AdvLoss_d=-0.0009, AdvLoss_g=-0.0018, GradLoss_d=0.0087, ClsLoss_d=0.2293, ClsLoss_g=0.2291
+04/28/2023 10:12:46 (train:120) INFO: epoch 2, mini-batch 38: CycLoss=0.2854, RecLoss=0.2720
+04/28/2023 10:13:03 (train:118) INFO: epoch 2, mini-batch 39: AdvLoss_d=0.0010, AdvLoss_g=-0.0034, GradLoss_d=0.0334, ClsLoss_d=0.2292, ClsLoss_g=0.2291
+04/28/2023 10:13:03 (train:120) INFO: epoch 2, mini-batch 39: CycLoss=0.2926, RecLoss=0.2774
+04/28/2023 10:13:09 (train:118) INFO: epoch 2, mini-batch 40: AdvLoss_d=-0.0005, AdvLoss_g=-0.0027, GradLoss_d=0.0689, ClsLoss_d=0.2294, ClsLoss_g=0.2292
+04/28/2023 10:13:09 (train:120) INFO: epoch 2, mini-batch 40: CycLoss=0.2955, RecLoss=0.2788
+04/28/2023 10:13:30 (train:118) INFO: epoch 2, mini-batch 41: AdvLoss_d=0.0016, AdvLoss_g=-0.0046, GradLoss_d=0.0092, ClsLoss_d=0.2293, ClsLoss_g=0.2291
+04/28/2023 10:13:30 (train:120) INFO: epoch 2, mini-batch 41: CycLoss=0.2906, RecLoss=0.2759
+04/28/2023 10:13:38 (train:118) INFO: epoch 2, mini-batch 42: AdvLoss_d=0.0011, AdvLoss_g=-0.0038, GradLoss_d=0.0134, ClsLoss_d=0.2293, ClsLoss_g=0.2292
+04/28/2023 10:13:38 (train:120) INFO: epoch 2, mini-batch 42: CycLoss=0.2918, RecLoss=0.2747
+04/28/2023 10:14:06 (train:118) INFO: epoch 2, mini-batch 43: AdvLoss_d=0.0001, AdvLoss_g=-0.0036, GradLoss_d=0.0109, ClsLoss_d=0.2293, ClsLoss_g=0.2291
+04/28/2023 10:14:06 (train:120) INFO: epoch 2, mini-batch 43: CycLoss=0.2826, RecLoss=0.2675
+04/28/2023 10:15:00 (train:118) INFO: epoch 2, mini-batch 44: AdvLoss_d=-0.0006, AdvLoss_g=-0.0008, GradLoss_d=0.0100, ClsLoss_d=0.2292, ClsLoss_g=0.2292
+04/28/2023 10:15:00 (train:120) INFO: epoch 2, mini-batch 44: CycLoss=0.2816, RecLoss=0.2679
+04/28/2023 10:15:36 (train:118) INFO: epoch 2, mini-batch 45: AdvLoss_d=-0.0001, AdvLoss_g=-0.0007, GradLoss_d=0.0095, ClsLoss_d=0.2292, ClsLoss_g=0.2291
+04/28/2023 10:15:36 (train:120) INFO: epoch 2, mini-batch 45: CycLoss=0.2839, RecLoss=0.2718
+04/28/2023 10:16:01 (train:118) INFO: epoch 3, mini-batch 1: AdvLoss_d=0.0001, AdvLoss_g=-0.0019, GradLoss_d=0.0081, ClsLoss_d=0.2293, ClsLoss_g=0.2290
+04/28/2023 10:16:01 (train:120) INFO: epoch 3, mini-batch 1: CycLoss=0.2818, RecLoss=0.2702
+04/28/2023 10:16:29 (train:118) INFO: epoch 3, mini-batch 2: AdvLoss_d=0.0014, AdvLoss_g=0.0001, GradLoss_d=0.0107, ClsLoss_d=0.2291, ClsLoss_g=0.2288
+04/28/2023 10:16:29 (train:120) INFO: epoch 3, mini-batch 2: CycLoss=0.2764, RecLoss=0.2635
+04/28/2023 10:17:14 (train:118) INFO: epoch 3, mini-batch 3: AdvLoss_d=0.0008, AdvLoss_g=-0.0011, GradLoss_d=0.0117, ClsLoss_d=0.2291, ClsLoss_g=0.2289
+04/28/2023 10:17:14 (train:120) INFO: epoch 3, mini-batch 3: CycLoss=0.2806, RecLoss=0.2669
+04/28/2023 10:17:48 (train:118) INFO: epoch 3, mini-batch 4: AdvLoss_d=0.0011, AdvLoss_g=-0.0022, GradLoss_d=0.0211, ClsLoss_d=0.2292, ClsLoss_g=0.2289
+04/28/2023 10:17:48 (train:120) INFO: epoch 3, mini-batch 4: CycLoss=0.2784, RecLoss=0.2655
+04/28/2023 10:18:13 (train:118) INFO: epoch 3, mini-batch 5: AdvLoss_d=0.0027, AdvLoss_g=-0.0038, GradLoss_d=0.0092, ClsLoss_d=0.2291, ClsLoss_g=0.2288
+04/28/2023 10:18:13 (train:120) INFO: epoch 3, mini-batch 5: CycLoss=0.2777, RecLoss=0.2660
+04/28/2023 10:18:39 (train:118) INFO: epoch 3, mini-batch 6: AdvLoss_d=0.0011, AdvLoss_g=-0.0065, GradLoss_d=0.0136, ClsLoss_d=0.2290, ClsLoss_g=0.2288
+04/28/2023 10:18:39 (train:120) INFO: epoch 3, mini-batch 6: CycLoss=0.2782, RecLoss=0.2648
+04/28/2023 10:19:04 (train:118) INFO: epoch 3, mini-batch 7: AdvLoss_d=0.0007, AdvLoss_g=-0.0029, GradLoss_d=0.0085, ClsLoss_d=0.2292, ClsLoss_g=0.2289
+04/28/2023 10:19:04 (train:120) INFO: epoch 3, mini-batch 7: CycLoss=0.2807, RecLoss=0.2666
+04/28/2023 10:19:55 (train:118) INFO: epoch 3, mini-batch 8: AdvLoss_d=-0.0014, AdvLoss_g=-0.0049, GradLoss_d=0.0198, ClsLoss_d=0.2290, ClsLoss_g=0.2289
+04/28/2023 10:19:55 (train:120) INFO: epoch 3, mini-batch 8: CycLoss=0.2809, RecLoss=0.2693
+04/28/2023 10:20:23 (train:118) INFO: epoch 3, mini-batch 9: AdvLoss_d=0.0015, AdvLoss_g=-0.0056, GradLoss_d=0.0130, ClsLoss_d=0.2291, ClsLoss_g=0.2288
+04/28/2023 10:20:23 (train:120) INFO: epoch 3, mini-batch 9: CycLoss=0.2889, RecLoss=0.2720
+04/28/2023 10:21:36 (train:118) INFO: epoch 3, mini-batch 10: AdvLoss_d=-0.0006, AdvLoss_g=-0.0008, GradLoss_d=0.0081, ClsLoss_d=0.2289, ClsLoss_g=0.2287
+04/28/2023 10:21:36 (train:120) INFO: epoch 3, mini-batch 10: CycLoss=0.2868, RecLoss=0.2720
+04/28/2023 10:21:52 (train:118) INFO: epoch 3, mini-batch 11: AdvLoss_d=-0.0001, AdvLoss_g=-0.0027, GradLoss_d=0.0100, ClsLoss_d=0.2290, ClsLoss_g=0.2287
+04/28/2023 10:21:52 (train:120) INFO: epoch 3, mini-batch 11: CycLoss=0.2760, RecLoss=0.2636
+04/28/2023 10:22:08 (train:118) INFO: epoch 3, mini-batch 12: AdvLoss_d=-0.0001, AdvLoss_g=-0.0015, GradLoss_d=0.0069, ClsLoss_d=0.2290, ClsLoss_g=0.2287
+04/28/2023 10:22:08 (train:120) INFO: epoch 3, mini-batch 12: CycLoss=0.2741, RecLoss=0.2607
+04/28/2023 10:22:52 (train:118) INFO: epoch 3, mini-batch 13: AdvLoss_d=-0.0010, AdvLoss_g=0.0008, GradLoss_d=0.0084, ClsLoss_d=0.2288, ClsLoss_g=0.2286
+04/28/2023 10:22:52 (train:120) INFO: epoch 3, mini-batch 13: CycLoss=0.2806, RecLoss=0.2656
+04/28/2023 10:23:39 (train:118) INFO: epoch 3, mini-batch 14: AdvLoss_d=0.0003, AdvLoss_g=0.0004, GradLoss_d=0.0088, ClsLoss_d=0.2287, ClsLoss_g=0.2285
+04/28/2023 10:23:39 (train:120) INFO: epoch 3, mini-batch 14: CycLoss=0.2838, RecLoss=0.2674
+04/28/2023 10:24:17 (train:118) INFO: epoch 3, mini-batch 15: AdvLoss_d=-0.0007, AdvLoss_g=-0.0007, GradLoss_d=0.0106, ClsLoss_d=0.2290, ClsLoss_g=0.2287
+04/28/2023 10:24:17 (train:120) INFO: epoch 3, mini-batch 15: CycLoss=0.2777, RecLoss=0.2650
+04/28/2023 10:25:00 (train:118) INFO: epoch 3, mini-batch 16: AdvLoss_d=-0.0018, AdvLoss_g=-0.0032, GradLoss_d=0.0127, ClsLoss_d=0.2289, ClsLoss_g=0.2287
+04/28/2023 10:25:00 (train:120) INFO: epoch 3, mini-batch 16: CycLoss=0.2727, RecLoss=0.2624
+04/28/2023 10:26:04 (train:118) INFO: epoch 3, mini-batch 17: AdvLoss_d=-0.0011, AdvLoss_g=0.0008, GradLoss_d=0.0071, ClsLoss_d=0.2287, ClsLoss_g=0.2284
+04/28/2023 10:26:04 (train:120) INFO: epoch 3, mini-batch 17: CycLoss=0.2734, RecLoss=0.2622
+04/28/2023 10:26:39 (train:118) INFO: epoch 3, mini-batch 18: AdvLoss_d=0.0001, AdvLoss_g=-0.0025, GradLoss_d=0.0067, ClsLoss_d=0.2289, ClsLoss_g=0.2286
+04/28/2023 10:26:39 (train:120) INFO: epoch 3, mini-batch 18: CycLoss=0.2792, RecLoss=0.2658
+04/28/2023 10:27:14 (train:118) INFO: epoch 3, mini-batch 19: AdvLoss_d=-0.0000, AdvLoss_g=0.0005, GradLoss_d=0.0111, ClsLoss_d=0.2289, ClsLoss_g=0.2287
+04/28/2023 10:27:14 (train:120) INFO: epoch 3, mini-batch 19: CycLoss=0.2793, RecLoss=0.2659
+04/28/2023 10:27:32 (train:118) INFO: epoch 3, mini-batch 20: AdvLoss_d=-0.0004, AdvLoss_g=-0.0010, GradLoss_d=0.0081, ClsLoss_d=0.2287, ClsLoss_g=0.2285
+04/28/2023 10:27:32 (train:120) INFO: epoch 3, mini-batch 20: CycLoss=0.2855, RecLoss=0.2695
+04/28/2023 10:27:58 (train:118) INFO: epoch 3, mini-batch 21: AdvLoss_d=-0.0015, AdvLoss_g=0.0006, GradLoss_d=0.0073, ClsLoss_d=0.2286, ClsLoss_g=0.2284
+04/28/2023 10:27:58 (train:120) INFO: epoch 3, mini-batch 21: CycLoss=0.2734, RecLoss=0.2604
+04/28/2023 10:28:22 (train:118) INFO: epoch 3, mini-batch 22: AdvLoss_d=-0.0004, AdvLoss_g=-0.0018, GradLoss_d=0.0104, ClsLoss_d=0.2286, ClsLoss_g=0.2284
+04/28/2023 10:28:22 (train:120) INFO: epoch 3, mini-batch 22: CycLoss=0.2699, RecLoss=0.2563
+04/28/2023 10:29:16 (train:118) INFO: epoch 3, mini-batch 23: AdvLoss_d=-0.0006, AdvLoss_g=0.0007, GradLoss_d=0.0100, ClsLoss_d=0.2287, ClsLoss_g=0.2284
+04/28/2023 10:29:16 (train:120) INFO: epoch 3, mini-batch 23: CycLoss=0.2761, RecLoss=0.2620
+04/28/2023 10:29:32 (train:118) INFO: epoch 3, mini-batch 24: AdvLoss_d=-0.0002, AdvLoss_g=-0.0003, GradLoss_d=0.0126, ClsLoss_d=0.2285, ClsLoss_g=0.2283
+04/28/2023 10:29:32 (train:120) INFO: epoch 3, mini-batch 24: CycLoss=0.2746, RecLoss=0.2605
+04/28/2023 10:30:15 (train:118) INFO: epoch 3, mini-batch 25: AdvLoss_d=-0.0014, AdvLoss_g=-0.0003, GradLoss_d=0.0163, ClsLoss_d=0.2285, ClsLoss_g=0.2282
+04/28/2023 10:30:15 (train:120) INFO: epoch 3, mini-batch 25: CycLoss=0.2792, RecLoss=0.2649
+04/28/2023 10:30:48 (train:118) INFO: epoch 3, mini-batch 26: AdvLoss_d=-0.0017, AdvLoss_g=0.0016, GradLoss_d=0.0148, ClsLoss_d=0.2285, ClsLoss_g=0.2283
+04/28/2023 10:30:48 (train:120) INFO: epoch 3, mini-batch 26: CycLoss=0.2748, RecLoss=0.2605
+04/28/2023 10:31:23 (train:118) INFO: epoch 3, mini-batch 27: AdvLoss_d=-0.0011, AdvLoss_g=0.0011, GradLoss_d=0.0073, ClsLoss_d=0.2285, ClsLoss_g=0.2283
+04/28/2023 10:31:23 (train:120) INFO: epoch 3, mini-batch 27: CycLoss=0.2794, RecLoss=0.2636
+04/28/2023 10:31:40 (train:118) INFO: epoch 3, mini-batch 28: AdvLoss_d=-0.0021, AdvLoss_g=0.0031, GradLoss_d=0.0070, ClsLoss_d=0.2285, ClsLoss_g=0.2283
+04/28/2023 10:31:40 (train:120) INFO: epoch 3, mini-batch 28: CycLoss=0.2711, RecLoss=0.2581
+04/28/2023 10:31:56 (train:118) INFO: epoch 3, mini-batch 29: AdvLoss_d=0.0006, AdvLoss_g=0.0004, GradLoss_d=0.0739, ClsLoss_d=0.2287, ClsLoss_g=0.2284
+04/28/2023 10:31:56 (train:120) INFO: epoch 3, mini-batch 29: CycLoss=0.2730, RecLoss=0.2601
+04/28/2023 10:32:16 (train:118) INFO: epoch 3, mini-batch 30: AdvLoss_d=0.0005, AdvLoss_g=-0.0041, GradLoss_d=0.0088, ClsLoss_d=0.2283, ClsLoss_g=0.2280
+04/28/2023 10:32:16 (train:120) INFO: epoch 3, mini-batch 30: CycLoss=0.2753, RecLoss=0.2611
+04/28/2023 10:32:50 (train:118) INFO: epoch 3, mini-batch 31: AdvLoss_d=-0.0007, AdvLoss_g=0.0028, GradLoss_d=0.0147, ClsLoss_d=0.2283, ClsLoss_g=0.2282
+04/28/2023 10:32:50 (train:120) INFO: epoch 3, mini-batch 31: CycLoss=0.2722, RecLoss=0.2606
+04/28/2023 10:33:06 (train:118) INFO: epoch 3, mini-batch 32: AdvLoss_d=-0.0023, AdvLoss_g=0.0034, GradLoss_d=0.0072, ClsLoss_d=0.2283, ClsLoss_g=0.2282
+04/28/2023 10:33:06 (train:120) INFO: epoch 3, mini-batch 32: CycLoss=0.2692, RecLoss=0.2564
+04/28/2023 10:33:51 (train:118) INFO: epoch 3, mini-batch 33: AdvLoss_d=-0.0019, AdvLoss_g=0.0037, GradLoss_d=0.0088, ClsLoss_d=0.2283, ClsLoss_g=0.2280
+04/28/2023 10:33:51 (train:120) INFO: epoch 3, mini-batch 33: CycLoss=0.2711, RecLoss=0.2576
+04/28/2023 10:34:26 (train:118) INFO: epoch 3, mini-batch 34: AdvLoss_d=-0.0013, AdvLoss_g=0.0043, GradLoss_d=0.0101, ClsLoss_d=0.2282, ClsLoss_g=0.2280
+04/28/2023 10:34:26 (train:120) INFO: epoch 3, mini-batch 34: CycLoss=0.2744, RecLoss=0.2598
+04/28/2023 10:35:01 (train:118) INFO: epoch 3, mini-batch 35: AdvLoss_d=-0.0005, AdvLoss_g=0.0006, GradLoss_d=0.0079, ClsLoss_d=0.2281, ClsLoss_g=0.2279
+04/28/2023 10:35:01 (train:120) INFO: epoch 3, mini-batch 35: CycLoss=0.2734, RecLoss=0.2601
+04/28/2023 10:35:45 (train:118) INFO: epoch 3, mini-batch 36: AdvLoss_d=-0.0005, AdvLoss_g=0.0006, GradLoss_d=0.0089, ClsLoss_d=0.2281, ClsLoss_g=0.2279
+04/28/2023 10:35:45 (train:120) INFO: epoch 3, mini-batch 36: CycLoss=0.2705, RecLoss=0.2582
+04/28/2023 10:36:22 (train:118) INFO: epoch 3, mini-batch 37: AdvLoss_d=-0.0011, AdvLoss_g=-0.0000, GradLoss_d=0.0170, ClsLoss_d=0.2280, ClsLoss_g=0.2278
+04/28/2023 10:36:22 (train:120) INFO: epoch 3, mini-batch 37: CycLoss=0.2693, RecLoss=0.2583
+04/28/2023 10:36:40 (train:118) INFO: epoch 3, mini-batch 38: AdvLoss_d=-0.0004, AdvLoss_g=-0.0014, GradLoss_d=0.0084, ClsLoss_d=0.2278, ClsLoss_g=0.2276
+04/28/2023 10:36:40 (train:120) INFO: epoch 3, mini-batch 38: CycLoss=0.2675, RecLoss=0.2550
+04/28/2023 10:36:58 (train:118) INFO: epoch 3, mini-batch 39: AdvLoss_d=-0.0004, AdvLoss_g=-0.0008, GradLoss_d=0.0113, ClsLoss_d=0.2278, ClsLoss_g=0.2276
+04/28/2023 10:36:58 (train:120) INFO: epoch 3, mini-batch 39: CycLoss=0.2736, RecLoss=0.2586
+04/28/2023 10:37:43 (train:118) INFO: epoch 3, mini-batch 40: AdvLoss_d=0.0001, AdvLoss_g=0.0002, GradLoss_d=0.0088, ClsLoss_d=0.2279, ClsLoss_g=0.2277
+04/28/2023 10:37:43 (train:120) INFO: epoch 3, mini-batch 40: CycLoss=0.2688, RecLoss=0.2573
+04/28/2023 10:38:12 (train:118) INFO: epoch 3, mini-batch 41: AdvLoss_d=0.0005, AdvLoss_g=-0.0004, GradLoss_d=0.0094, ClsLoss_d=0.2279, ClsLoss_g=0.2276
+04/28/2023 10:38:12 (train:120) INFO: epoch 3, mini-batch 41: CycLoss=0.2684, RecLoss=0.2569
+04/28/2023 10:38:28 (train:118) INFO: epoch 3, mini-batch 42: AdvLoss_d=0.0003, AdvLoss_g=-0.0012, GradLoss_d=0.0082, ClsLoss_d=0.2276, ClsLoss_g=0.2275
+04/28/2023 10:38:28 (train:120) INFO: epoch 3, mini-batch 42: CycLoss=0.2720, RecLoss=0.2598
+04/28/2023 10:38:43 (train:118) INFO: epoch 3, mini-batch 43: AdvLoss_d=0.0012, AdvLoss_g=0.0010, GradLoss_d=0.0167, ClsLoss_d=0.2279, ClsLoss_g=0.2277
+04/28/2023 10:38:43 (train:120) INFO: epoch 3, mini-batch 43: CycLoss=0.2751, RecLoss=0.2591
+04/28/2023 10:39:28 (train:118) INFO: epoch 3, mini-batch 44: AdvLoss_d=0.0008, AdvLoss_g=-0.0016, GradLoss_d=0.0067, ClsLoss_d=0.2279, ClsLoss_g=0.2277
+04/28/2023 10:39:28 (train:120) INFO: epoch 3, mini-batch 44: CycLoss=0.2660, RecLoss=0.2540
+04/28/2023 10:39:34 (train:118) INFO: epoch 3, mini-batch 45: AdvLoss_d=0.0001, AdvLoss_g=-0.0039, GradLoss_d=0.0133, ClsLoss_d=0.2277, ClsLoss_g=0.2274
+04/28/2023 10:39:34 (train:120) INFO: epoch 3, mini-batch 45: CycLoss=0.2698, RecLoss=0.2569
+04/28/2023 10:40:09 (train:118) INFO: epoch 4, mini-batch 1: AdvLoss_d=0.0004, AdvLoss_g=-0.0035, GradLoss_d=0.0108, ClsLoss_d=0.2275, ClsLoss_g=0.2274
+04/28/2023 10:40:09 (train:120) INFO: epoch 4, mini-batch 1: CycLoss=0.2671, RecLoss=0.2542
+04/28/2023 10:40:36 (train:118) INFO: epoch 4, mini-batch 2: AdvLoss_d=0.0006, AdvLoss_g=-0.0030, GradLoss_d=0.0249, ClsLoss_d=0.2276, ClsLoss_g=0.2272
+04/28/2023 10:40:36 (train:120) INFO: epoch 4, mini-batch 2: CycLoss=0.2668, RecLoss=0.2562
+04/28/2023 10:41:20 (train:118) INFO: epoch 4, mini-batch 3: AdvLoss_d=0.0000, AdvLoss_g=-0.0044, GradLoss_d=0.0097, ClsLoss_d=0.2277, ClsLoss_g=0.2274
+04/28/2023 10:41:20 (train:120) INFO: epoch 4, mini-batch 3: CycLoss=0.2641, RecLoss=0.2528
+04/28/2023 10:41:26 (train:118) INFO: epoch 4, mini-batch 4: AdvLoss_d=0.0014, AdvLoss_g=-0.0054, GradLoss_d=0.0141, ClsLoss_d=0.2277, ClsLoss_g=0.2275
+04/28/2023 10:41:26 (train:120) INFO: epoch 4, mini-batch 4: CycLoss=0.2656, RecLoss=0.2542
+04/28/2023 10:42:02 (train:118) INFO: epoch 4, mini-batch 5: AdvLoss_d=-0.0006, AdvLoss_g=-0.0012, GradLoss_d=0.0077, ClsLoss_d=0.2276, ClsLoss_g=0.2273
+04/28/2023 10:42:02 (train:120) INFO: epoch 4, mini-batch 5: CycLoss=0.2682, RecLoss=0.2550
+04/28/2023 10:42:29 (train:118) INFO: epoch 4, mini-batch 6: AdvLoss_d=0.0009, AdvLoss_g=-0.0001, GradLoss_d=0.0132, ClsLoss_d=0.2274, ClsLoss_g=0.2272
+04/28/2023 10:42:29 (train:120) INFO: epoch 4, mini-batch 6: CycLoss=0.2639, RecLoss=0.2516
+04/28/2023 10:42:58 (train:118) INFO: epoch 4, mini-batch 7: AdvLoss_d=-0.0002, AdvLoss_g=-0.0022, GradLoss_d=0.0594, ClsLoss_d=0.2276, ClsLoss_g=0.2272
+04/28/2023 10:42:58 (train:120) INFO: epoch 4, mini-batch 7: CycLoss=0.2687, RecLoss=0.2562
+04/28/2023 10:43:14 (train:118) INFO: epoch 4, mini-batch 8: AdvLoss_d=-0.0010, AdvLoss_g=-0.0040, GradLoss_d=0.0072, ClsLoss_d=0.2275, ClsLoss_g=0.2271
+04/28/2023 10:43:14 (train:120) INFO: epoch 4, mini-batch 8: CycLoss=0.2722, RecLoss=0.2565
+04/28/2023 10:43:33 (train:118) INFO: epoch 4, mini-batch 9: AdvLoss_d=-0.0000, AdvLoss_g=-0.0032, GradLoss_d=0.0078, ClsLoss_d=0.2273, ClsLoss_g=0.2271
+04/28/2023 10:43:33 (train:120) INFO: epoch 4, mini-batch 9: CycLoss=0.2630, RecLoss=0.2510
+04/28/2023 10:44:08 (train:118) INFO: epoch 4, mini-batch 10: AdvLoss_d=-0.0004, AdvLoss_g=-0.0035, GradLoss_d=0.0093, ClsLoss_d=0.2275, ClsLoss_g=0.2271
+04/28/2023 10:44:08 (train:120) INFO: epoch 4, mini-batch 10: CycLoss=0.2704, RecLoss=0.2580
+04/28/2023 10:45:02 (train:118) INFO: epoch 4, mini-batch 11: AdvLoss_d=-0.0007, AdvLoss_g=-0.0018, GradLoss_d=0.0076, ClsLoss_d=0.2273, ClsLoss_g=0.2270
+04/28/2023 10:45:02 (train:120) INFO: epoch 4, mini-batch 11: CycLoss=0.2712, RecLoss=0.2585
+04/28/2023 10:45:56 (train:118) INFO: epoch 4, mini-batch 12: AdvLoss_d=-0.0002, AdvLoss_g=-0.0041, GradLoss_d=0.0064, ClsLoss_d=0.2274, ClsLoss_g=0.2271
+04/28/2023 10:45:56 (train:120) INFO: epoch 4, mini-batch 12: CycLoss=0.2656, RecLoss=0.2534
+04/28/2023 10:46:02 (train:118) INFO: epoch 4, mini-batch 13: AdvLoss_d=-0.0007, AdvLoss_g=-0.0023, GradLoss_d=0.0105, ClsLoss_d=0.2270, ClsLoss_g=0.2267
+04/28/2023 10:46:02 (train:120) INFO: epoch 4, mini-batch 13: CycLoss=0.2709, RecLoss=0.2568
+04/28/2023 10:46:49 (train:118) INFO: epoch 4, mini-batch 14: AdvLoss_d=-0.0015, AdvLoss_g=0.0003, GradLoss_d=0.0103, ClsLoss_d=0.2271, ClsLoss_g=0.2266
+04/28/2023 10:46:49 (train:120) INFO: epoch 4, mini-batch 14: CycLoss=0.2741, RecLoss=0.2609
+04/28/2023 10:47:26 (train:118) INFO: epoch 4, mini-batch 15: AdvLoss_d=-0.0012, AdvLoss_g=-0.0043, GradLoss_d=0.0085, ClsLoss_d=0.2267, ClsLoss_g=0.2264
+04/28/2023 10:47:26 (train:120) INFO: epoch 4, mini-batch 15: CycLoss=0.2633, RecLoss=0.2506
+04/28/2023 10:47:44 (train:118) INFO: epoch 4, mini-batch 16: AdvLoss_d=-0.0010, AdvLoss_g=-0.0026, GradLoss_d=0.0095, ClsLoss_d=0.2273, ClsLoss_g=0.2267
+04/28/2023 10:47:44 (train:120) INFO: epoch 4, mini-batch 16: CycLoss=0.2683, RecLoss=0.2539
+04/28/2023 10:48:29 (train:118) INFO: epoch 4, mini-batch 17: AdvLoss_d=-0.0011, AdvLoss_g=-0.0018, GradLoss_d=0.0092, ClsLoss_d=0.2273, ClsLoss_g=0.2267
+04/28/2023 10:48:29 (train:120) INFO: epoch 4, mini-batch 17: CycLoss=0.2677, RecLoss=0.2540
+04/28/2023 10:49:04 (train:118) INFO: epoch 4, mini-batch 18: AdvLoss_d=-0.0009, AdvLoss_g=-0.0011, GradLoss_d=0.0075, ClsLoss_d=0.2270, ClsLoss_g=0.2265
+04/28/2023 10:49:04 (train:120) INFO: epoch 4, mini-batch 18: CycLoss=0.2608, RecLoss=0.2491
+04/28/2023 10:49:38 (train:118) INFO: epoch 4, mini-batch 19: AdvLoss_d=-0.0015, AdvLoss_g=-0.0004, GradLoss_d=0.0217, ClsLoss_d=0.2272, ClsLoss_g=0.2265
+04/28/2023 10:49:38 (train:120) INFO: epoch 4, mini-batch 19: CycLoss=0.2637, RecLoss=0.2524
+04/28/2023 10:50:15 (train:118) INFO: epoch 4, mini-batch 20: AdvLoss_d=-0.0019, AdvLoss_g=-0.0005, GradLoss_d=0.0080, ClsLoss_d=0.2270, ClsLoss_g=0.2265
+04/28/2023 10:50:15 (train:120) INFO: epoch 4, mini-batch 20: CycLoss=0.2608, RecLoss=0.2484
+04/28/2023 10:50:55 (train:118) INFO: epoch 4, mini-batch 21: AdvLoss_d=0.0007, AdvLoss_g=-0.0024, GradLoss_d=0.0109, ClsLoss_d=0.2270, ClsLoss_g=0.2264
+04/28/2023 10:50:55 (train:120) INFO: epoch 4, mini-batch 21: CycLoss=0.2677, RecLoss=0.2544
+04/28/2023 10:51:29 (train:118) INFO: epoch 4, mini-batch 22: AdvLoss_d=-0.0020, AdvLoss_g=-0.0009, GradLoss_d=0.0127, ClsLoss_d=0.2270, ClsLoss_g=0.2265
+04/28/2023 10:51:29 (train:120) INFO: epoch 4, mini-batch 22: CycLoss=0.2665, RecLoss=0.2526
+04/28/2023 10:52:04 (train:118) INFO: epoch 4, mini-batch 23: AdvLoss_d=-0.0006, AdvLoss_g=-0.0019, GradLoss_d=0.0093, ClsLoss_d=0.2270, ClsLoss_g=0.2265
+04/28/2023 10:52:04 (train:120) INFO: epoch 4, mini-batch 23: CycLoss=0.2650, RecLoss=0.2537
+04/28/2023 10:52:29 (train:118) INFO: epoch 4, mini-batch 24: AdvLoss_d=-0.0005, AdvLoss_g=-0.0015, GradLoss_d=0.0084, ClsLoss_d=0.2266, ClsLoss_g=0.2262
+04/28/2023 10:52:29 (train:120) INFO: epoch 4, mini-batch 24: CycLoss=0.2624, RecLoss=0.2509
+04/28/2023 10:52:55 (train:118) INFO: epoch 4, mini-batch 25: AdvLoss_d=-0.0008, AdvLoss_g=-0.0019, GradLoss_d=0.0099, ClsLoss_d=0.2267, ClsLoss_g=0.2263
+04/28/2023 10:52:55 (train:120) INFO: epoch 4, mini-batch 25: CycLoss=0.2621, RecLoss=0.2490
+04/28/2023 10:53:20 (train:118) INFO: epoch 4, mini-batch 26: AdvLoss_d=-0.0005, AdvLoss_g=0.0010, GradLoss_d=0.0102, ClsLoss_d=0.2266, ClsLoss_g=0.2261
+04/28/2023 10:53:20 (train:120) INFO: epoch 4, mini-batch 26: CycLoss=0.2681, RecLoss=0.2554
+04/28/2023 10:53:44 (train:118) INFO: epoch 4, mini-batch 27: AdvLoss_d=-0.0009, AdvLoss_g=-0.0001, GradLoss_d=0.0118, ClsLoss_d=0.2267, ClsLoss_g=0.2260
+04/28/2023 10:53:44 (train:120) INFO: epoch 4, mini-batch 27: CycLoss=0.2617, RecLoss=0.2491
+04/28/2023 10:54:10 (train:118) INFO: epoch 4, mini-batch 28: AdvLoss_d=-0.0008, AdvLoss_g=0.0000, GradLoss_d=0.0077, ClsLoss_d=0.2265, ClsLoss_g=0.2260
+04/28/2023 10:54:10 (train:120) INFO: epoch 4, mini-batch 28: CycLoss=0.2646, RecLoss=0.2515
+04/28/2023 10:55:09 (train:118) INFO: epoch 4, mini-batch 29: AdvLoss_d=-0.0004, AdvLoss_g=-0.0024, GradLoss_d=0.0111, ClsLoss_d=0.2265, ClsLoss_g=0.2260
+04/28/2023 10:55:09 (train:120) INFO: epoch 4, mini-batch 29: CycLoss=0.2619, RecLoss=0.2486
+04/28/2023 10:55:39 (train:118) INFO: epoch 4, mini-batch 30: AdvLoss_d=-0.0016, AdvLoss_g=-0.0008, GradLoss_d=0.0110, ClsLoss_d=0.2264, ClsLoss_g=0.2260
+04/28/2023 10:55:39 (train:120) INFO: epoch 4, mini-batch 30: CycLoss=0.2611, RecLoss=0.2491
+04/28/2023 10:55:48 (train:118) INFO: epoch 4, mini-batch 31: AdvLoss_d=-0.0015, AdvLoss_g=-0.0022, GradLoss_d=0.0092, ClsLoss_d=0.2264, ClsLoss_g=0.2258
+04/28/2023 10:55:48 (train:120) INFO: epoch 4, mini-batch 31: CycLoss=0.2564, RecLoss=0.2469
+04/28/2023 10:56:30 (train:118) INFO: epoch 4, mini-batch 32: AdvLoss_d=-0.0015, AdvLoss_g=0.0015, GradLoss_d=0.0174, ClsLoss_d=0.2264, ClsLoss_g=0.2260
+04/28/2023 10:56:30 (train:120) INFO: epoch 4, mini-batch 32: CycLoss=0.2673, RecLoss=0.2548
+04/28/2023 10:56:48 (train:118) INFO: epoch 4, mini-batch 33: AdvLoss_d=-0.0012, AdvLoss_g=-0.0031, GradLoss_d=0.0117, ClsLoss_d=0.2263, ClsLoss_g=0.2258
+04/28/2023 10:56:48 (train:120) INFO: epoch 4, mini-batch 33: CycLoss=0.2610, RecLoss=0.2489
+04/28/2023 10:56:57 (train:118) INFO: epoch 4, mini-batch 34: AdvLoss_d=-0.0009, AdvLoss_g=-0.0031, GradLoss_d=0.0079, ClsLoss_d=0.2261, ClsLoss_g=0.2255
+04/28/2023 10:56:57 (train:120) INFO: epoch 4, mini-batch 34: CycLoss=0.2630, RecLoss=0.2516
+04/28/2023 10:57:17 (train:118) INFO: epoch 4, mini-batch 35: AdvLoss_d=0.0000, AdvLoss_g=-0.0044, GradLoss_d=0.0093, ClsLoss_d=0.2260, ClsLoss_g=0.2256
+04/28/2023 10:57:17 (train:120) INFO: epoch 4, mini-batch 35: CycLoss=0.2661, RecLoss=0.2534
+04/28/2023 10:58:17 (train:118) INFO: epoch 4, mini-batch 36: AdvLoss_d=-0.0010, AdvLoss_g=0.0020, GradLoss_d=0.0232, ClsLoss_d=0.2260, ClsLoss_g=0.2257
+04/28/2023 10:58:17 (train:120) INFO: epoch 4, mini-batch 36: CycLoss=0.2631, RecLoss=0.2496
+04/28/2023 10:59:01 (train:118) INFO: epoch 4, mini-batch 37: AdvLoss_d=-0.0028, AdvLoss_g=0.0021, GradLoss_d=0.0062, ClsLoss_d=0.2260, ClsLoss_g=0.2255
+04/28/2023 10:59:01 (train:120) INFO: epoch 4, mini-batch 37: CycLoss=0.2565, RecLoss=0.2450
+04/28/2023 10:59:27 (train:118) INFO: epoch 4, mini-batch 38: AdvLoss_d=-0.0015, AdvLoss_g=-0.0009, GradLoss_d=0.0193, ClsLoss_d=0.2259, ClsLoss_g=0.2253
+04/28/2023 10:59:27 (train:120) INFO: epoch 4, mini-batch 38: CycLoss=0.2625, RecLoss=0.2504
+04/28/2023 11:00:12 (train:118) INFO: epoch 4, mini-batch 39: AdvLoss_d=-0.0016, AdvLoss_g=-0.0036, GradLoss_d=0.0086, ClsLoss_d=0.2260, ClsLoss_g=0.2252
+04/28/2023 11:00:12 (train:120) INFO: epoch 4, mini-batch 39: CycLoss=0.2667, RecLoss=0.2533
+04/28/2023 11:00:49 (train:118) INFO: epoch 4, mini-batch 40: AdvLoss_d=-0.0013, AdvLoss_g=-0.0011, GradLoss_d=0.0117, ClsLoss_d=0.2258, ClsLoss_g=0.2253
+04/28/2023 11:00:49 (train:120) INFO: epoch 4, mini-batch 40: CycLoss=0.2697, RecLoss=0.2553
+04/28/2023 11:01:08 (train:118) INFO: epoch 4, mini-batch 41: AdvLoss_d=-0.0015, AdvLoss_g=-0.0034, GradLoss_d=0.0096, ClsLoss_d=0.2257, ClsLoss_g=0.2253
+04/28/2023 11:01:08 (train:120) INFO: epoch 4, mini-batch 41: CycLoss=0.2650, RecLoss=0.2500
+04/28/2023 11:01:24 (train:118) INFO: epoch 4, mini-batch 42: AdvLoss_d=-0.0015, AdvLoss_g=0.0007, GradLoss_d=0.0132, ClsLoss_d=0.2256, ClsLoss_g=0.2252
+04/28/2023 11:01:24 (train:120) INFO: epoch 4, mini-batch 42: CycLoss=0.2645, RecLoss=0.2513
+04/28/2023 11:01:32 (train:118) INFO: epoch 4, mini-batch 43: AdvLoss_d=-0.0004, AdvLoss_g=-0.0033, GradLoss_d=0.0089, ClsLoss_d=0.2256, ClsLoss_g=0.2252
+04/28/2023 11:01:32 (train:120) INFO: epoch 4, mini-batch 43: CycLoss=0.2590, RecLoss=0.2470
+04/28/2023 11:01:57 (train:118) INFO: epoch 4, mini-batch 44: AdvLoss_d=0.0020, AdvLoss_g=-0.0018, GradLoss_d=0.0204, ClsLoss_d=0.2253, ClsLoss_g=0.2249
+04/28/2023 11:01:57 (train:120) INFO: epoch 4, mini-batch 44: CycLoss=0.2628, RecLoss=0.2499
+04/28/2023 11:02:41 (train:118) INFO: epoch 4, mini-batch 45: AdvLoss_d=-0.0013, AdvLoss_g=-0.0025, GradLoss_d=0.0069, ClsLoss_d=0.2256, ClsLoss_g=0.2250
+04/28/2023 11:02:41 (train:120) INFO: epoch 4, mini-batch 45: CycLoss=0.2615, RecLoss=0.2487
+04/28/2023 11:03:15 (train:118) INFO: epoch 5, mini-batch 1: AdvLoss_d=-0.0013, AdvLoss_g=-0.0029, GradLoss_d=0.0113, ClsLoss_d=0.2254, ClsLoss_g=0.2252
+04/28/2023 11:03:15 (train:120) INFO: epoch 5, mini-batch 1: CycLoss=0.2626, RecLoss=0.2501
+04/28/2023 11:03:40 (train:118) INFO: epoch 5, mini-batch 2: AdvLoss_d=-0.0005, AdvLoss_g=-0.0032, GradLoss_d=0.0085, ClsLoss_d=0.2253, ClsLoss_g=0.2251
+04/28/2023 11:03:40 (train:120) INFO: epoch 5, mini-batch 2: CycLoss=0.2533, RecLoss=0.2428
+04/28/2023 11:04:05 (train:118) INFO: epoch 5, mini-batch 3: AdvLoss_d=0.0005, AdvLoss_g=-0.0053, GradLoss_d=0.0230, ClsLoss_d=0.2252, ClsLoss_g=0.2249
+04/28/2023 11:04:05 (train:120) INFO: epoch 5, mini-batch 3: CycLoss=0.2617, RecLoss=0.2503
+04/28/2023 11:05:01 (train:118) INFO: epoch 5, mini-batch 4: AdvLoss_d=0.0001, AdvLoss_g=-0.0051, GradLoss_d=0.0109, ClsLoss_d=0.2250, ClsLoss_g=0.2247
+04/28/2023 11:05:01 (train:120) INFO: epoch 5, mini-batch 4: CycLoss=0.2607, RecLoss=0.2476
+04/28/2023 11:05:26 (train:118) INFO: epoch 5, mini-batch 5: AdvLoss_d=0.0005, AdvLoss_g=-0.0024, GradLoss_d=0.0118, ClsLoss_d=0.2254, ClsLoss_g=0.2250
+04/28/2023 11:05:26 (train:120) INFO: epoch 5, mini-batch 5: CycLoss=0.2669, RecLoss=0.2506
+04/28/2023 11:06:13 (train:118) INFO: epoch 5, mini-batch 6: AdvLoss_d=-0.0019, AdvLoss_g=-0.0025, GradLoss_d=0.0102, ClsLoss_d=0.2251, ClsLoss_g=0.2247
+04/28/2023 11:06:13 (train:120) INFO: epoch 5, mini-batch 6: CycLoss=0.2607, RecLoss=0.2495
+04/28/2023 11:06:39 (train:118) INFO: epoch 5, mini-batch 7: AdvLoss_d=0.0009, AdvLoss_g=0.0003, GradLoss_d=0.0077, ClsLoss_d=0.2252, ClsLoss_g=0.2249
+04/28/2023 11:06:39 (train:120) INFO: epoch 5, mini-batch 7: CycLoss=0.2623, RecLoss=0.2500
+04/28/2023 11:07:33 (train:118) INFO: epoch 5, mini-batch 8: AdvLoss_d=0.0010, AdvLoss_g=-0.0042, GradLoss_d=0.0081, ClsLoss_d=0.2248, ClsLoss_g=0.2247
+04/28/2023 11:07:33 (train:120) INFO: epoch 5, mini-batch 8: CycLoss=0.2589, RecLoss=0.2455
+04/28/2023 11:07:44 (train:118) INFO: epoch 5, mini-batch 9: AdvLoss_d=0.0003, AdvLoss_g=-0.0043, GradLoss_d=0.0088, ClsLoss_d=0.2248, ClsLoss_g=0.2246
+04/28/2023 11:07:44 (train:120) INFO: epoch 5, mini-batch 9: CycLoss=0.2597, RecLoss=0.2486
+04/28/2023 11:08:18 (train:118) INFO: epoch 5, mini-batch 10: AdvLoss_d=-0.0005, AdvLoss_g=-0.0041, GradLoss_d=0.0095, ClsLoss_d=0.2250, ClsLoss_g=0.2247
+04/28/2023 11:08:18 (train:120) INFO: epoch 5, mini-batch 10: CycLoss=0.2524, RecLoss=0.2416
+04/28/2023 11:09:03 (train:118) INFO: epoch 5, mini-batch 11: AdvLoss_d=-0.0005, AdvLoss_g=-0.0008, GradLoss_d=0.0079, ClsLoss_d=0.2245, ClsLoss_g=0.2244
+04/28/2023 11:09:03 (train:120) INFO: epoch 5, mini-batch 11: CycLoss=0.2630, RecLoss=0.2491
+04/28/2023 11:09:10 (train:118) INFO: epoch 5, mini-batch 12: AdvLoss_d=-0.0013, AdvLoss_g=-0.0034, GradLoss_d=0.0107, ClsLoss_d=0.2246, ClsLoss_g=0.2244
+04/28/2023 11:09:10 (train:120) INFO: epoch 5, mini-batch 12: CycLoss=0.2615, RecLoss=0.2504
+04/28/2023 11:09:45 (train:118) INFO: epoch 5, mini-batch 13: AdvLoss_d=0.0008, AdvLoss_g=-0.0049, GradLoss_d=0.0122, ClsLoss_d=0.2242, ClsLoss_g=0.2241
+04/28/2023 11:09:45 (train:120) INFO: epoch 5, mini-batch 13: CycLoss=0.2586, RecLoss=0.2478
+04/28/2023 11:10:39 (train:118) INFO: epoch 5, mini-batch 14: AdvLoss_d=-0.0010, AdvLoss_g=-0.0050, GradLoss_d=0.0094, ClsLoss_d=0.2246, ClsLoss_g=0.2243
+04/28/2023 11:10:39 (train:120) INFO: epoch 5, mini-batch 14: CycLoss=0.2582, RecLoss=0.2462
+04/28/2023 11:10:55 (train:118) INFO: epoch 5, mini-batch 15: AdvLoss_d=-0.0018, AdvLoss_g=-0.0039, GradLoss_d=0.0122, ClsLoss_d=0.2240, ClsLoss_g=0.2240
+04/28/2023 11:10:55 (train:120) INFO: epoch 5, mini-batch 15: CycLoss=0.2621, RecLoss=0.2494
+04/28/2023 11:11:40 (train:118) INFO: epoch 5, mini-batch 16: AdvLoss_d=-0.0010, AdvLoss_g=-0.0043, GradLoss_d=0.0099, ClsLoss_d=0.2248, ClsLoss_g=0.2244
+04/28/2023 11:11:40 (train:120) INFO: epoch 5, mini-batch 16: CycLoss=0.2544, RecLoss=0.2430
+04/28/2023 11:12:15 (train:118) INFO: epoch 5, mini-batch 17: AdvLoss_d=-0.0009, AdvLoss_g=-0.0052, GradLoss_d=0.0069, ClsLoss_d=0.2239, ClsLoss_g=0.2236
+04/28/2023 11:12:15 (train:120) INFO: epoch 5, mini-batch 17: CycLoss=0.2577, RecLoss=0.2459
+04/28/2023 11:12:49 (train:118) INFO: epoch 5, mini-batch 18: AdvLoss_d=-0.0011, AdvLoss_g=-0.0029, GradLoss_d=0.0112, ClsLoss_d=0.2236, ClsLoss_g=0.2235
+04/28/2023 11:12:49 (train:120) INFO: epoch 5, mini-batch 18: CycLoss=0.2642, RecLoss=0.2521
+04/28/2023 11:13:14 (train:118) INFO: epoch 5, mini-batch 19: AdvLoss_d=-0.0007, AdvLoss_g=-0.0034, GradLoss_d=0.0088, ClsLoss_d=0.2238, ClsLoss_g=0.2237
+04/28/2023 11:13:14 (train:120) INFO: epoch 5, mini-batch 19: CycLoss=0.2629, RecLoss=0.2484
+04/28/2023 11:13:21 (train:118) INFO: epoch 5, mini-batch 20: AdvLoss_d=-0.0005, AdvLoss_g=-0.0033, GradLoss_d=0.0100, ClsLoss_d=0.2240, ClsLoss_g=0.2235
+04/28/2023 11:13:21 (train:120) INFO: epoch 5, mini-batch 20: CycLoss=0.2617, RecLoss=0.2479
+04/28/2023 11:13:58 (train:118) INFO: epoch 5, mini-batch 21: AdvLoss_d=-0.0004, AdvLoss_g=-0.0039, GradLoss_d=0.0101, ClsLoss_d=0.2241, ClsLoss_g=0.2236
+04/28/2023 11:13:58 (train:120) INFO: epoch 5, mini-batch 21: CycLoss=0.2632, RecLoss=0.2515
+04/28/2023 11:14:19 (train:118) INFO: epoch 5, mini-batch 22: AdvLoss_d=-0.0008, AdvLoss_g=-0.0059, GradLoss_d=0.0105, ClsLoss_d=0.2235, ClsLoss_g=0.2232
+04/28/2023 11:14:19 (train:120) INFO: epoch 5, mini-batch 22: CycLoss=0.2663, RecLoss=0.2538
+04/28/2023 11:14:37 (train:118) INFO: epoch 5, mini-batch 23: AdvLoss_d=-0.0002, AdvLoss_g=-0.0055, GradLoss_d=0.0092, ClsLoss_d=0.2232, ClsLoss_g=0.2231
+04/28/2023 11:14:37 (train:120) INFO: epoch 5, mini-batch 23: CycLoss=0.2609, RecLoss=0.2478
+04/28/2023 11:15:13 (train:118) INFO: epoch 5, mini-batch 24: AdvLoss_d=-0.0007, AdvLoss_g=-0.0044, GradLoss_d=0.0097, ClsLoss_d=0.2238, ClsLoss_g=0.2234
+04/28/2023 11:15:13 (train:120) INFO: epoch 5, mini-batch 24: CycLoss=0.2589, RecLoss=0.2446
+04/28/2023 11:15:56 (train:118) INFO: epoch 5, mini-batch 25: AdvLoss_d=-0.0007, AdvLoss_g=-0.0037, GradLoss_d=0.0097, ClsLoss_d=0.2238, ClsLoss_g=0.2232
+04/28/2023 11:15:56 (train:120) INFO: epoch 5, mini-batch 25: CycLoss=0.2585, RecLoss=0.2455
+04/28/2023 11:16:26 (train:118) INFO: epoch 5, mini-batch 26: AdvLoss_d=-0.0002, AdvLoss_g=-0.0067, GradLoss_d=0.0112, ClsLoss_d=0.2229, ClsLoss_g=0.2228
+04/28/2023 11:16:26 (train:120) INFO: epoch 5, mini-batch 26: CycLoss=0.2527, RecLoss=0.2417
+04/28/2023 11:16:53 (train:118) INFO: epoch 5, mini-batch 27: AdvLoss_d=-0.0001, AdvLoss_g=-0.0060, GradLoss_d=0.0186, ClsLoss_d=0.2233, ClsLoss_g=0.2229
+04/28/2023 11:16:53 (train:120) INFO: epoch 5, mini-batch 27: CycLoss=0.2600, RecLoss=0.2480
+04/28/2023 11:17:44 (train:118) INFO: epoch 5, mini-batch 28: AdvLoss_d=-0.0014, AdvLoss_g=-0.0011, GradLoss_d=0.0182, ClsLoss_d=0.2227, ClsLoss_g=0.2226
+04/28/2023 11:17:44 (train:120) INFO: epoch 5, mini-batch 28: CycLoss=0.2571, RecLoss=0.2451
+04/28/2023 11:18:26 (train:118) INFO: epoch 5, mini-batch 29: AdvLoss_d=-0.0031, AdvLoss_g=-0.0025, GradLoss_d=0.0121, ClsLoss_d=0.2228, ClsLoss_g=0.2226
+04/28/2023 11:18:26 (train:120) INFO: epoch 5, mini-batch 29: CycLoss=0.2550, RecLoss=0.2432
+04/28/2023 11:19:00 (train:118) INFO: epoch 5, mini-batch 30: AdvLoss_d=-0.0008, AdvLoss_g=-0.0067, GradLoss_d=0.0167, ClsLoss_d=0.2230, ClsLoss_g=0.2226
+04/28/2023 11:19:00 (train:120) INFO: epoch 5, mini-batch 30: CycLoss=0.2565, RecLoss=0.2438
+04/28/2023 11:19:26 (train:118) INFO: epoch 5, mini-batch 31: AdvLoss_d=0.0001, AdvLoss_g=-0.0047, GradLoss_d=0.0611, ClsLoss_d=0.2227, ClsLoss_g=0.2222
+04/28/2023 11:19:26 (train:120) INFO: epoch 5, mini-batch 31: CycLoss=0.2625, RecLoss=0.2478
+04/28/2023 11:19:54 (train:118) INFO: epoch 5, mini-batch 32: AdvLoss_d=0.0002, AdvLoss_g=-0.0071, GradLoss_d=0.0081, ClsLoss_d=0.2223, ClsLoss_g=0.2222
+04/28/2023 11:19:54 (train:120) INFO: epoch 5, mini-batch 32: CycLoss=0.2584, RecLoss=0.2457
+04/28/2023 11:20:19 (train:118) INFO: epoch 5, mini-batch 33: AdvLoss_d=-0.0011, AdvLoss_g=-0.0048, GradLoss_d=0.0088, ClsLoss_d=0.2226, ClsLoss_g=0.2220
+04/28/2023 11:20:19 (train:120) INFO: epoch 5, mini-batch 33: CycLoss=0.2529, RecLoss=0.2414
+04/28/2023 11:20:26 (train:118) INFO: epoch 5, mini-batch 34: AdvLoss_d=-0.0009, AdvLoss_g=-0.0086, GradLoss_d=0.0090, ClsLoss_d=0.2226, ClsLoss_g=0.2222
+04/28/2023 11:20:26 (train:120) INFO: epoch 5, mini-batch 34: CycLoss=0.2513, RecLoss=0.2410
+04/28/2023 11:21:01 (train:118) INFO: epoch 5, mini-batch 35: AdvLoss_d=0.0001, AdvLoss_g=-0.0093, GradLoss_d=0.0094, ClsLoss_d=0.2221, ClsLoss_g=0.2218
+04/28/2023 11:21:01 (train:120) INFO: epoch 5, mini-batch 35: CycLoss=0.2587, RecLoss=0.2474
+04/28/2023 11:21:17 (train:118) INFO: epoch 5, mini-batch 36: AdvLoss_d=-0.0010, AdvLoss_g=-0.0062, GradLoss_d=0.0079, ClsLoss_d=0.2218, ClsLoss_g=0.2213
+04/28/2023 11:21:17 (train:120) INFO: epoch 5, mini-batch 36: CycLoss=0.2531, RecLoss=0.2426
+04/28/2023 11:21:51 (train:118) INFO: epoch 5, mini-batch 37: AdvLoss_d=-0.0006, AdvLoss_g=-0.0067, GradLoss_d=0.0105, ClsLoss_d=0.2221, ClsLoss_g=0.2216
+04/28/2023 11:21:51 (train:120) INFO: epoch 5, mini-batch 37: CycLoss=0.2554, RecLoss=0.2430
+04/28/2023 11:22:07 (train:118) INFO: epoch 5, mini-batch 38: AdvLoss_d=-0.0004, AdvLoss_g=-0.0090, GradLoss_d=0.0088, ClsLoss_d=0.2213, ClsLoss_g=0.2213
+04/28/2023 11:22:07 (train:120) INFO: epoch 5, mini-batch 38: CycLoss=0.2545, RecLoss=0.2426
+04/28/2023 11:22:30 (train:118) INFO: epoch 5, mini-batch 39: AdvLoss_d=0.0000, AdvLoss_g=-0.0115, GradLoss_d=0.0148, ClsLoss_d=0.2219, ClsLoss_g=0.2214
+04/28/2023 11:22:30 (train:120) INFO: epoch 5, mini-batch 39: CycLoss=0.2579, RecLoss=0.2460
+04/28/2023 11:22:55 (train:118) INFO: epoch 5, mini-batch 40: AdvLoss_d=0.0002, AdvLoss_g=-0.0093, GradLoss_d=0.0086, ClsLoss_d=0.2215, ClsLoss_g=0.2211
+04/28/2023 11:22:55 (train:120) INFO: epoch 5, mini-batch 40: CycLoss=0.2558, RecLoss=0.2447
+04/28/2023 11:23:02 (train:118) INFO: epoch 5, mini-batch 41: AdvLoss_d=0.0001, AdvLoss_g=-0.0092, GradLoss_d=0.0091, ClsLoss_d=0.2214, ClsLoss_g=0.2211
+04/28/2023 11:23:02 (train:120) INFO: epoch 5, mini-batch 41: CycLoss=0.2614, RecLoss=0.2497
+04/28/2023 11:23:56 (train:118) INFO: epoch 5, mini-batch 42: AdvLoss_d=-0.0015, AdvLoss_g=-0.0072, GradLoss_d=0.0092, ClsLoss_d=0.2218, ClsLoss_g=0.2211
+04/28/2023 11:23:56 (train:120) INFO: epoch 5, mini-batch 42: CycLoss=0.2583, RecLoss=0.2451
+04/28/2023 11:24:30 (train:118) INFO: epoch 5, mini-batch 43: AdvLoss_d=-0.0006, AdvLoss_g=-0.0079, GradLoss_d=0.0173, ClsLoss_d=0.2214, ClsLoss_g=0.2208
+04/28/2023 11:24:30 (train:120) INFO: epoch 5, mini-batch 43: CycLoss=0.2480, RecLoss=0.2367
+04/28/2023 11:24:38 (train:118) INFO: epoch 5, mini-batch 44: AdvLoss_d=-0.0019, AdvLoss_g=-0.0101, GradLoss_d=0.0089, ClsLoss_d=0.2211, ClsLoss_g=0.2205
+04/28/2023 11:24:38 (train:120) INFO: epoch 5, mini-batch 44: CycLoss=0.2589, RecLoss=0.2466
+04/28/2023 11:24:55 (train:118) INFO: epoch 5, mini-batch 45: AdvLoss_d=0.0010, AdvLoss_g=-0.0110, GradLoss_d=0.0287, ClsLoss_d=0.2210, ClsLoss_g=0.2206
+04/28/2023 11:24:55 (train:120) INFO: epoch 5, mini-batch 45: CycLoss=0.2592, RecLoss=0.2456
+04/28/2023 11:25:02 (train:118) INFO: epoch 6, mini-batch 1: AdvLoss_d=-0.0008, AdvLoss_g=-0.0101, GradLoss_d=0.0112, ClsLoss_d=0.2211, ClsLoss_g=0.2206
+04/28/2023 11:25:02 (train:120) INFO: epoch 6, mini-batch 1: CycLoss=0.2551, RecLoss=0.2432
+04/28/2023 11:25:18 (train:118) INFO: epoch 6, mini-batch 2: AdvLoss_d=-0.0007, AdvLoss_g=-0.0103, GradLoss_d=0.0092, ClsLoss_d=0.2210, ClsLoss_g=0.2204
+04/28/2023 11:25:18 (train:120) INFO: epoch 6, mini-batch 2: CycLoss=0.2549, RecLoss=0.2431
+04/28/2023 11:26:02 (train:118) INFO: epoch 6, mini-batch 3: AdvLoss_d=-0.0010, AdvLoss_g=-0.0088, GradLoss_d=0.0098, ClsLoss_d=0.2202, ClsLoss_g=0.2197
+04/28/2023 11:26:02 (train:120) INFO: epoch 6, mini-batch 3: CycLoss=0.2530, RecLoss=0.2417
+04/28/2023 11:26:54 (train:118) INFO: epoch 6, mini-batch 4: AdvLoss_d=-0.0019, AdvLoss_g=-0.0074, GradLoss_d=0.0147, ClsLoss_d=0.2207, ClsLoss_g=0.2199
+04/28/2023 11:26:54 (train:120) INFO: epoch 6, mini-batch 4: CycLoss=0.2538, RecLoss=0.2424
+04/28/2023 11:27:38 (train:118) INFO: epoch 6, mini-batch 5: AdvLoss_d=-0.0020, AdvLoss_g=-0.0090, GradLoss_d=0.0078, ClsLoss_d=0.2207, ClsLoss_g=0.2200
+04/28/2023 11:27:38 (train:120) INFO: epoch 6, mini-batch 5: CycLoss=0.2511, RecLoss=0.2405
+04/28/2023 11:27:54 (train:118) INFO: epoch 6, mini-batch 6: AdvLoss_d=-0.0016, AdvLoss_g=-0.0110, GradLoss_d=0.0078, ClsLoss_d=0.2201, ClsLoss_g=0.2197
+04/28/2023 11:27:54 (train:120) INFO: epoch 6, mini-batch 6: CycLoss=0.2487, RecLoss=0.2374
+04/28/2023 11:28:29 (train:118) INFO: epoch 6, mini-batch 7: AdvLoss_d=-0.0005, AdvLoss_g=-0.0094, GradLoss_d=0.0074, ClsLoss_d=0.2198, ClsLoss_g=0.2195
+04/28/2023 11:28:29 (train:120) INFO: epoch 6, mini-batch 7: CycLoss=0.2507, RecLoss=0.2374
+04/28/2023 11:28:57 (train:118) INFO: epoch 6, mini-batch 8: AdvLoss_d=-0.0017, AdvLoss_g=-0.0104, GradLoss_d=0.0085, ClsLoss_d=0.2199, ClsLoss_g=0.2193
+04/28/2023 11:28:57 (train:120) INFO: epoch 6, mini-batch 8: CycLoss=0.2567, RecLoss=0.2427
+04/28/2023 11:29:42 (train:118) INFO: epoch 6, mini-batch 9: AdvLoss_d=-0.0022, AdvLoss_g=-0.0096, GradLoss_d=0.0064, ClsLoss_d=0.2192, ClsLoss_g=0.2189
+04/28/2023 11:29:42 (train:120) INFO: epoch 6, mini-batch 9: CycLoss=0.2589, RecLoss=0.2433
+04/28/2023 11:30:24 (train:118) INFO: epoch 6, mini-batch 10: AdvLoss_d=-0.0016, AdvLoss_g=-0.0075, GradLoss_d=0.0125, ClsLoss_d=0.2193, ClsLoss_g=0.2191
+04/28/2023 11:30:24 (train:120) INFO: epoch 6, mini-batch 10: CycLoss=0.2537, RecLoss=0.2406
+04/28/2023 11:30:58 (train:118) INFO: epoch 6, mini-batch 11: AdvLoss_d=-0.0015, AdvLoss_g=-0.0086, GradLoss_d=0.0238, ClsLoss_d=0.2196, ClsLoss_g=0.2189
+04/28/2023 11:30:58 (train:120) INFO: epoch 6, mini-batch 11: CycLoss=0.2553, RecLoss=0.2424
+04/28/2023 11:31:35 (train:118) INFO: epoch 6, mini-batch 12: AdvLoss_d=-0.0019, AdvLoss_g=-0.0099, GradLoss_d=0.0118, ClsLoss_d=0.2186, ClsLoss_g=0.2182
+04/28/2023 11:31:35 (train:120) INFO: epoch 6, mini-batch 12: CycLoss=0.2516, RecLoss=0.2406
+04/28/2023 11:31:56 (train:118) INFO: epoch 6, mini-batch 13: AdvLoss_d=-0.0000, AdvLoss_g=-0.0139, GradLoss_d=0.0803, ClsLoss_d=0.2195, ClsLoss_g=0.2188
+04/28/2023 11:31:56 (train:120) INFO: epoch 6, mini-batch 13: CycLoss=0.2510, RecLoss=0.2380
